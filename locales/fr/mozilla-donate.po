@@ -1,24 +1,30 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-01-09 12:09:58.494353+00:00\n"
+"PO-Revision-Date: 2020-01-09 13:23+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/html; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 
 msgid "While Thunderbird is now an independent project separate from Mozilla, Mozilla has agreed to collect donations on our behalf."
-msgstr ""
+msgstr "Bien que Thunderbird soit désormais un projet indépendant de Mozilla, Mozilla a accepté de recueillir les dons pour notre compte."
 
 msgid ""
 "We’re the leading open source cross-platform email and calendaring client, free for business and personal use. By donating you’ll help ensure it stays that way and contribute towards future "
 "development. Will you give today?"
 msgstr ""
+"Nous dominons le marché de la messagerie électronique et des agendas open source, multiplateforme et gratuits pour les particuliers et les professionnels. En faisant un don, vous aidez à ce que cela"
+" soit toujours le cas, et contribuez à la poursuite du développement de ces applications. Acceptez-vous de faire un don ?"
 
 msgid "Give to Thunderbird today"
-msgstr ""
+msgstr "Faites un don à Thunderbird"
 
 msgid "Give to Thunderbird"
 msgstr ""
 
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Faire un don à Thunderbird"
