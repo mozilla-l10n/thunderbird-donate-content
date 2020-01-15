@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-01-09 12:09:58.494353+00:00\n"
@@ -24,7 +24,7 @@ msgid "Give to Thunderbird today"
 msgstr "Faites un don à Thunderbird"
 
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Faire un don à Thunderbird"
 
 msgid "Give to Thunderbird"
 msgstr "Faire un don à Thunderbird"
