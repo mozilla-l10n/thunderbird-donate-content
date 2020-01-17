@@ -10,14 +10,8 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pontoon\n"
 
-msgid "Give to Thunderbird"
-msgstr "Faire un don à Thunderbird"
-
-msgid "Give to Thunderbird"
-msgstr "Faire un don à Thunderbird"
-
-msgid "Give to Thunderbird today"
-msgstr "Faites un don à Thunderbird"
+msgid "While Thunderbird is now an independent project separate from Mozilla, Mozilla has agreed to collect donations on our behalf."
+msgstr "Bien que Thunderbird soit désormais un projet indépendant de Mozilla, Mozilla a accepté de recueillir les dons pour notre compte."
 
 msgid ""
 "We’re the leading open source cross-platform email and calendaring client, free for business and personal use. By donating you’ll help ensure it stays that way and contribute towards future "
@@ -26,5 +20,14 @@ msgstr ""
 "Nous dominons le marché de la messagerie électronique et des agendas open source, multiplateforme et gratuits pour les particuliers et les professionnels. En faisant un don, vous aidez à ce que cela"
 " soit toujours le cas, et contribuez à la poursuite du développement de ces applications. Acceptez-vous de faire un don ?"
 
-msgid "While Thunderbird is now an independent project separate from Mozilla, Mozilla has agreed to collect donations on our behalf."
-msgstr "Bien que Thunderbird soit désormais un projet indépendant de Mozilla, Mozilla a accepté de recueillir les dons pour notre compte."
+msgid "I donated to @mozthunderbird today to #freetheinbox. Join me to support communication privacy."
+msgstr ""
+
+msgid "Give to Thunderbird"
+msgstr "Faire un don à Thunderbird"
+
+msgid "Give to Thunderbird"
+msgstr "Faire un don à Thunderbird"
+
+#~ msgid "Give to Thunderbird today"
+#~ msgstr "Faites un don à Thunderbird"
