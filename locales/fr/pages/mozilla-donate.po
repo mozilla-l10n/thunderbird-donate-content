@@ -15,7 +15,7 @@ msgid "Give to Thunderbird"
 msgstr "Faire un don à Thunderbird"
 
 msgctxt "search_description"
-msgid "I donated to @mozthunderbird today to #freetheinbox. Join me to support communication privacy."
+msgid "I gave to @mozthunderbird today to #freetheinbox. Join me to support communication privacy."
 msgstr ""
 
 msgctxt "intro"
