@@ -1,0 +1,102 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-01-17 16:23:02.889287+00:00\n"
+"Language: fy-NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/html; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Frequently Asked Questions"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Thunderbird Giving FAQ"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Frequently asked questions about giving to Thunderbird"
+msgstr ""
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.title"
+msgid "Thunderbird Gift FAQs"
+msgstr ""
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a6e1885f-f164-4eec-9595-cea9a545e7e6.title"
+msgid "What are the ways I can give?"
+msgstr ""
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a6e1885f-f164-4eec-9595-cea9a545e7e6.content"
+msgid "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>."
+msgstr ""
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.c492e102-0610-459c-81fe-16c0a6e9e11f.title"
+msgid "Why do you need my address in order to process a gift?"
+msgstr ""
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.c492e102-0610-459c-81fe-16c0a6e9e11f.content"
+msgid ""
+"We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
+" to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our<a id=\"a1\"> Privacy"
+" Policy</a>. If you would rather not fill in your information on our online form, you can mail us a check."
+msgstr ""
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.717167cb-85dd-42ac-81e6-bbd101ca491a.title"
+msgid "Can I give bitcoin?"
+msgstr ""
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.717167cb-85dd-42ac-81e6-bbd101ca491a.content"
+msgid "We are not currently accepting bitcoin."
+msgstr ""
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.e7ad7f16-3b98-4c67-aada-2eee7ac39acb.title"
+msgid "How can I turn off the appeal on the Thunderbird start page?"
+msgstr ""
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.e7ad7f16-3b98-4c67-aada-2eee7ac39acb.content"
+msgid "The start page appeal to donate can’t currently be turned off. If you like, you can change the start page to something else. To do this, in Thunderbird go to Options | General"
+msgstr ""
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.8dd4b22e-d86c-445b-948f-83ef4b2c4552.title"
+msgid "How will my gift be used?"
+msgstr ""
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.8dd4b22e-d86c-445b-948f-83ef4b2c4552.content"
+msgid ""
+"Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
+"development."
+msgstr ""
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.20921238-be13-4535-bae3-ed933869c362.title"
+msgid "Doesn’t Thunderbird earn income?"
+msgstr ""
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.20921238-be13-4535-bae3-ed933869c362.content"
+msgid "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird."
+msgstr ""
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a4757741-e6bb-456a-8bd7-a15557e0c21b.title"
+msgid "Who gives to Thunderbird?"
+msgstr ""
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a4757741-e6bb-456a-8bd7-a15557e0c21b.content"
+msgid "Anyone can give, companies and individuals, to Thunderbird to support development of the product now and in the future."
+msgstr ""
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.7e4bb215-32a3-4c9f-a9db-2a0ba19f0e8f.title"
+msgid "Does my gift give me access to tech support?"
+msgstr ""
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.7e4bb215-32a3-4c9f-a9db-2a0ba19f0e8f.content"
+msgid "Anyone can access tech support for Thunderbird by visiting the<a id=\"a1\"> support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial gifts."
+msgstr ""
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.59b5f8e5-70ea-461b-9c24-53beaf12600a.title"
+msgid "Who can I email directly with questions about giving?"
+msgstr ""
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.59b5f8e5-70ea-461b-9c24-53beaf12600a.content"
+msgid ""
+"If you have a question about giving to Thunderbird, please contact us at <a id=\"a1\">thunderbird-donate@mozilla.org</a>. We will do our best to follow-up with you as soon as we can. If you need "
+"technical support, please head over to<a id=\"a2\"> Thunderbird Support</a> for assistance."
+msgstr ""
