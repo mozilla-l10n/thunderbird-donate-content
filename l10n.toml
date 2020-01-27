@@ -7,3 +7,7 @@ l10n = "locales/{locale}/pages/give/faq.po"
 reference = "templates/pages/mozilla-donate.pot"
 l10n = "locales/{locale}/pages/mozilla-donate.po"
 
+[[paths]]
+reference = "templates/pages/thunderbird-donate/help.pot"
+l10n = "locales/{locale}/pages/thunderbird-donate/help.po"
+
