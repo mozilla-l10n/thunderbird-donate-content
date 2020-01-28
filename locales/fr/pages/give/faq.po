@@ -26,6 +26,14 @@ msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.title"
 msgid "Thunderbird Gift FAQs"
 msgstr "FAQ sur les dons à Thunderbird"
 
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.36ffc3f6-b01b-4e17-a4a9-e67d780c48b7.title"
+msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
+msgstr ""
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.36ffc3f6-b01b-4e17-a4a9-e67d780c48b7.content"
+msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
+msgstr ""
+
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a6e1885f-f164-4eec-9595-cea9a545e7e6.title"
 msgid "What are the ways I can give?"
 msgstr "Quels sont les différents moyens de faire un don ?"
@@ -116,3 +124,33 @@ msgid ""
 msgstr ""
 "Si vous avez une question au sujet des dons envers Thunderbird, vous pouvez nous contacter à l’adresse <a id=\"a1\">thunderbird-donate@mozilla.org</a>. Nous ferons de notre mieux pour vous répondre "
 "dans les meilleurs délais. Si votre question concerne Thunderbird, vous pouvez consulter <a id=\"a2\">l’assistance de Thunderbird</a>."
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.ff95ca71-27c4-4ef6-b3d1-b1c4b55b19ea.title"
+msgid "Is my gift tax deductible?"
+msgstr ""
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.ff95ca71-27c4-4ef6-b3d1-b1c4b55b19ea.content"
+msgid ""
+"Gifts to Thunderbird are not tax-deductible, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-platform email and calendaring client, free "
+"for business and personal use. Your gift will help ensure it stays that way, and will support future development."
+msgstr ""
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.65e3527b-81f5-4025-82d0-67e840e54a11.title"
+msgid "How do I cancel or change my recurring gift?"
+msgstr ""
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.65e3527b-81f5-4025-82d0-67e840e54a11.content"
+msgid ""
+"If you used PayPal to set up a recurring gift, you’ll need to<a id=\"a1\"> log in to your PayPal account</a> to make changes or to cancel. If you made a monthly gift using your credit card, please "
+"contact to the Donor Care team <a id=\"a2\">via this form</a>. Please include the email address and name you used to make your donation, and they’ll try to help you within two business days."
+msgstr ""
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.05da60c3-3805-4891-ad8c-e7bfa5c2442d.title"
+msgid "Who can I email directly with questions about giving?"
+msgstr ""
+
+msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.05da60c3-3805-4891-ad8c-e7bfa5c2442d.content"
+msgid ""
+"If you have a question about giving to Thunderbird, please contact us via <a id=\"a1\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical support, "
+"please head over to<a id=\"a2\"> Thunderbird Support</a> for assistance."
+msgstr ""
