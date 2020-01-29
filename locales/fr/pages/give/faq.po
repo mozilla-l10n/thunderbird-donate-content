@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-01-17 16:23:02.858256+00:00\n"
-"PO-Revision-Date: 2020-01-29 12:49+0000\n"
+"PO-Revision-Date: 2020-01-29 12:57+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -28,7 +28,7 @@ msgstr "FAQ sur les dons à Thunderbird"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.36ffc3f6-b01b-4e17-a4a9-e67d780c48b7.title"
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
-msgstr ""
+msgstr "Quelle est la relation de Thunderbird avec MZLA Technologies Corporation ?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.36ffc3f6-b01b-4e17-a4a9-e67d780c48b7.content"
 msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
@@ -110,6 +110,8 @@ msgstr "Mon don me donne t-il accès à l’assistance technique ?"
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.7e4bb215-32a3-4c9f-a9db-2a0ba19f0e8f.content"
 msgid "Anyone can access tech support for Thunderbird by visiting the <a id=\"a1\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial gifts."
 msgstr ""
+"Tout le monde peut accéder à l’assistance technique pour Thunderbird en visitant <a id=\"a1\">le forum d’assistance</a>. Thunderbird ne fournit pas d’assistance technique ni d’assistance technique "
+"étendue en l’échange de dons."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.59b5f8e5-70ea-461b-9c24-53beaf12600a.title"
 msgid "Who can I email directly with questions about giving?"
@@ -142,6 +144,9 @@ msgid ""
 "If you used PayPal to set up a recurring gift, you’ll need to <a id=\"a1\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly gift using your credit card, please "
 "contact to the Donor Care team <a id=\"a2\">via this form</a>. Please include the email address and name you used to make your donation, and they’ll try to help you within two business days."
 msgstr ""
+"Si vous avez utilisé PayPal pour mettre en place un don récurrent, il vous suffit de <a id=\"a1\">vous connecter à votre compte PayPal</a> pour le modifier ou l’arrêter. Si vous avez accepté de "
+"faire un don mensuel par carte bancaire, veuillez contacter notre équipe d’assistance pour les dons via <a id=\"a2\">ce formulaire</a>. Assurez-vous d’indiquer le nom et l’adresse électronique "
+"utilisés lorsque vous avez fait votre don et nous essaierons de vous aider sous deux jours ouvrés."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.05da60c3-3805-4891-ad8c-e7bfa5c2442d.title"
 msgid "Who can I email directly with questions about giving?"
