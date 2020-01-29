@@ -34,6 +34,10 @@ msgctxt "intro"
 msgid "<i>Update:</i> Contributions are no longer being received by Mozilla Foundation and will not be tax deductible as charitable contributions."
 msgstr "<i>Mise à jour :</i> les dons ne sont plus reçus par la Fondation Mozilla et ne sont pas déductibles des impôts."
 
+msgctxt "intro"
+msgid "Please note we are currently troubleshooting an issue related to monthly Paypal gifts"
+msgstr ""
+
 #~ msgctxt "intro"
 #~ msgid ""
 #~ "We’re the leading open source cross-platform email and calendaring client, free for business and personal use. By donating you’ll help ensure it stays that way and contribute towards future "
