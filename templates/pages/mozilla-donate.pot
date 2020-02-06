@@ -26,7 +26,3 @@ msgstr ""
 msgctxt "intro"
 msgid "<i>Update:</i> Contributions are no longer being received by Mozilla Foundation and will not be tax deductible as charitable contributions."
 msgstr ""
-
-msgctxt "intro"
-msgid "Please note we are currently troubleshooting an issue related to monthly Paypal gifts"
-msgstr ""
