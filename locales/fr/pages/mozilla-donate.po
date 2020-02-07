@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-01-17 16:23:05.119972+00:00\n"
-"PO-Revision-Date: 2020-02-06 23:49+0000\n"
+"PO-Revision-Date: 2020-01-29 15:46+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +32,7 @@ msgstr ""
 
 msgctxt "intro"
 msgid "<i>Update:</i> Contributions are no longer being received by Mozilla Foundation and will not be tax deductible as charitable contributions."
-msgstr "<i>Mise à jour :</i>  les dons ne sont plus recueillis par la Fondation Mozilla et ne sont pas déductibles des impôts."
+msgstr "<i>Mise à jour :</i> les dons ne sont plus recueillis par la Fondation Mozilla et ne sont pas déductibles des impôts."
 
 #~ msgctxt "intro"
 #~ msgid ""
