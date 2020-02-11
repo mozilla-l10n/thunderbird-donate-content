@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-01-17 16:23:02.858256+00:00\n"
-"PO-Revision-Date: 2020-01-29 13:07+0000\n"
+"PO-Revision-Date: 2020-02-11 09:08+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -147,7 +147,7 @@ msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a id=\"a1\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical support, "
 "please head over to <a id=\"a2\">Thunderbird Support</a> for assistance."
 msgstr ""
-"Si vous avez une question au sujet des dons envers Thunderbird, vous pouvez nous contacter via <a id=\"a1\">ce formulaire</a>. Nous ferons de notre mieux pour vous répondre dans les meilleurs "
+"Si vous avez une question au sujet des dons envers Thunderbird, vous pouvez nous contacter via <a id=\"a1\">ce formulaire</a>.  Nous ferons de notre mieux pour vous répondre dans les meilleurs "
 "délais. Si vous avez besoin d’assistance technique, vous pouvez consulter <a id=\"a2\">l’assistance de Thunderbird</a>."
 
 #~ msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.c492e102-0610-459c-81fe-16c0a6e9e11f.content"
