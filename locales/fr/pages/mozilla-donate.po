@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-01-17 16:23:05.119972+00:00\n"
-"PO-Revision-Date: 2020-01-29 15:46+0000\n"
+"PO-Revision-Date: 2020-04-28 20:19+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +32,7 @@ msgstr ""
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
-msgstr ""
+msgstr "Les dons ne sont pas déductibles des impôts en tant que dons aux organismes d’intérêt général."
 
 #~ msgctxt "intro"
 #~ msgid ""
