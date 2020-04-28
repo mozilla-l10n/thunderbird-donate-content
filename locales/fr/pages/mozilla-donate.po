@@ -31,8 +31,8 @@ msgstr ""
 " soit toujours le cas, et contribuez à la poursuite du développement de ces applications. Acceptez-vous de faire un don ?"
 
 msgctxt "intro"
-msgid "<i>Update:</i> Contributions are no longer being received by Mozilla Foundation and will not be tax deductible as charitable contributions."
-msgstr "<i>Mise à jour :</i> les dons ne sont plus recueillis par la Fondation Mozilla et ne sont pas déductibles des impôts."
+msgid "Contributions are not tax-deductible as charitable contributions."
+msgstr ""
 
 #~ msgctxt "intro"
 #~ msgid ""
@@ -49,6 +49,10 @@ msgstr "<i>Mise à jour :</i> les dons ne sont plus recueillis par la Fondation
 #~ msgctxt "search_description"
 #~ msgid "Give to Thunderbird today"
 #~ msgstr "Faites un don à Thunderbird"
+
+#~ msgctxt "intro"
+#~ msgid "<i>Update:</i> Contributions are no longer being received by Mozilla Foundation and will not be tax deductible as charitable contributions."
+#~ msgstr "<i>Mise à jour :</i> les dons ne sont plus recueillis par la Fondation Mozilla et ne sont pas déductibles des impôts."
 
 #~ msgctxt "intro"
 #~ msgid "Please note we are currently troubleshooting an issue related to monthly Paypal gifts"
