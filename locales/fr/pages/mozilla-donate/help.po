@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-05-13 19:50:15.977444+00:00\n"
-"PO-Revision-Date: 2020-05-14 12:47+0000\n"
+"PO-Revision-Date: 2020-05-14 11:43+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -16,4 +16,4 @@ msgstr "Aide"
 
 msgctxt "seo_title"
 msgid "Get Help for Thunderbird Donations"
-msgstr "Obtenez de l’aide pour les dons à Thunderbird."
+msgstr "Obtenez de l’aide pour les dons à Thunderbird"
