@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:52.095813+00:00\n"
-"PO-Revision-Date: 2020-11-20 18:46+0000\n"
+"PO-Revision-Date: 2020-11-20 19:08+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language: hsb\n"
 "MIME-Version: 1.0\n"
@@ -29,4 +29,4 @@ msgstr ""
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
-msgstr ""
+msgstr "Dary jako dobroćelske přidźělenki wot dawka wotsadźomne njejsu."
