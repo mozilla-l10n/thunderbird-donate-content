@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:53.468203+00:00\n"
-"PO-Revision-Date: 2020-11-20 09:27+0000\n"
+"PO-Revision-Date: 2020-11-20 11:25+0000\n"
 "Last-Translator: 你我皆凡人 <eloli@foxmail.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -27,4 +27,4 @@ msgstr "我们是业界领先的开源、跨平台的电子邮件和日历客户
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
-msgstr ""
+msgstr "捐款金额不可抵税。"
