@@ -1,18 +1,23 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:51.382613+00:00\n"
+"PO-Revision-Date: 2020-11-20 22:03+0000\n"
+"Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
+"Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: e12cd89a-03b0-424e-b7d6-a76fa12029f3\n"
 
 msgctxt "seo_title"
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Δωρεά στο Thunderbird"
 
 msgctxt "search_description"
 msgid "I gave to @mozthunderbird today to #freetheinbox. Join me to support communication privacy."
-msgstr ""
+msgstr "Σήμερα, έκανα μια δωρεά στο @mozthunderbird. Υποστηρίξτε κι εσείς το απόρρητο των επικοινωνιών. #freetheinbox"
 
 msgctxt "intro"
 msgid ""
