@@ -1,18 +1,23 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:52.675003+00:00\n"
+"PO-Revision-Date: 2020-11-21 01:51+0000\n"
+"Last-Translator: Håvar Henriksen <havar@firefox.no>\n"
+"Language: nb_NO\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 2d5496bd-752a-46c2-bb82-657984ab3a2e\n"
 
 msgctxt "seo_title"
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Gi til Thunderbird"
 
 msgctxt "search_description"
 msgid "I gave to @mozthunderbird today to #freetheinbox. Join me to support communication privacy."
-msgstr ""
+msgstr "Jeg ga til @mozthunderbird i dag for å #freetheinbox. Bli med meg for å støtte kommunikasjonspersonvern."
 
 msgctxt "intro"
 msgid ""
