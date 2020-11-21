@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:53.137857+00:00\n"
-"PO-Revision-Date: 2020-11-20 17:08+0000\n"
+"PO-Revision-Date: 2020-11-21 17:15+0000\n"
 "Last-Translator: Andreas Pettersson <az@kth.se>\n"
 "Language: sv_SE\n"
 "MIME-Version: 1.0\n"
@@ -17,13 +17,15 @@ msgstr "Donera till Thunderbird"
 
 msgctxt "search_description"
 msgid "I gave to @mozthunderbird today to #freetheinbox. Join me to support communication privacy."
-msgstr ""
+msgstr "Jag donerade till @mozthunderbird idag för att #freetheinbox. Gå med mig för att stödja integritetsskyddad kommunikation."
 
 msgctxt "intro"
 msgid ""
 "We’re the leading open source cross-platform email and calendaring client, free for business and personal use. By contributing you’ll help ensure it stays that way and contribute towards future "
 "development. Will you give today?"
 msgstr ""
+"Vi är den ledande plattformsoberoende e-post och kalenderklienten med öppen källkod, gratis för företag och personligt bruk. Genom att donera kan du bidra till att det förblir så, samt till den "
+"framtida utvecklingen. Kommer du att donera idag?"
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
