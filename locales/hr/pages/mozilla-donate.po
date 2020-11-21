@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:52.020719+00:00\n"
-"PO-Revision-Date: 2020-11-21 23:18+0000\n"
+"PO-Revision-Date: 2020-11-21 23:24+0000\n"
 "Last-Translator: Milo <mail@milotype.de>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr "Doniraj Thunderbirdu"
 
 msgctxt "search_description"
 msgid "I gave to @mozthunderbird today to #freetheinbox. Join me to support communication privacy."
-msgstr ""
+msgstr "Danas sam donirao/la pri @mozthunderbird za #freetheinbox. Pridruži mi se u podržavanju privatnosti komunikacije."
 
 msgctxt "intro"
 msgid ""
