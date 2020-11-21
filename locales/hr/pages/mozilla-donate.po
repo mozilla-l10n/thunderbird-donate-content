@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:52.020719+00:00\n"
-"PO-Revision-Date: 2020-11-21 23:14+0000\n"
+"PO-Revision-Date: 2020-11-21 23:18+0000\n"
 "Last-Translator: Milo <mail@milotype.de>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +24,9 @@ msgid ""
 "We’re the leading open source cross-platform email and calendaring client, free for business and personal use. By contributing you’ll help ensure it stays that way and contribute towards future "
 "development. Will you give today?"
 msgstr ""
+"Mi smo vodeći višeplatformski klijent otvorenog koda za e-poštu i upravljanje kalendarima, besplatan za poslovne i privatne korisnike. Doniranjem pomažeš da tako i ostane te osiguravaš daljnji "
+"razvoj. Želiš li danas donirati?"
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
-msgstr ""
+msgstr "Doprinosi se ne mogu odbiti od poreza kao dobrotvorni prilozi."
