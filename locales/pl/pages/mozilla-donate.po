@@ -1,25 +1,32 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:52.823822+00:00\n"
+"PO-Revision-Date: 2020-11-22 14:03+0000\n"
+"Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: cde9ecd6-7a38-40fb-adb7-a5b414cd836b\n"
 
 msgctxt "seo_title"
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Wspomóż Thunderbirda"
 
 msgctxt "search_description"
 msgid "I gave to @mozthunderbird today to #freetheinbox. Join me to support communication privacy."
-msgstr ""
+msgstr "Wspomagam dzisiaj @mozthunderbird, aby #UwolnićSkrzynkę. Dołącz do mnie, aby wspierać prywatność komunikacji."
 
 msgctxt "intro"
 msgid ""
 "We’re the leading open source cross-platform email and calendaring client, free for business and personal use. By contributing you’ll help ensure it stays that way and contribute towards future "
 "development. Will you give today?"
 msgstr ""
+"Thunderbird to wiodący wieloplatformowy klient poczty i kalendarza open source, bezpłatny do użytku firmowego i osobistego. Datki zapewniają, że to się nie zmieni, a także pomagają w przyszłym "
+"rozwoju. Wspomożesz nas dzisiaj?"
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
-msgstr ""
+msgstr "Datków nie można odliczać od podatku jako datki na cele charytatywne."
