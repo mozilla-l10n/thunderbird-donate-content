@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-23 14:25:28.062502+00:00\n"
+"PO-Revision-Date: 2020-11-23 15:45+0000\n"
+"Last-Translator: 你我皆凡人 <eloli@foxmail.com>\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 66f42768-3346-4051-a7de-74a57ea4ee16\n"
 
 msgctxt "title"
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "常见问题"
 
 msgctxt "seo_title"
 msgid "Thunderbird Giving FAQ"
@@ -24,11 +29,11 @@ msgstr ""
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.36ffc3f6-b01b-4e17-a4a9-e67d780c48b7.title"
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
-msgstr ""
+msgstr "Thunderbird 与 MZLA 科技公司之间是什么关系？"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.36ffc3f6-b01b-4e17-a4a9-e67d780c48b7.content"
 msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
-msgstr ""
+msgstr "Thunderbird 是 MZLA 科技公司的一个项目，该公司是 Mozilla 基金会的全资子公司。"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a6e1885f-f164-4eec-9595-cea9a545e7e6.title"
 msgid "What are the ways I can give?"
@@ -51,15 +56,15 @@ msgstr ""
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.717167cb-85dd-42ac-81e6-bbd101ca491a.title"
 msgid "Can I give bitcoin?"
-msgstr ""
+msgstr "我能捐赠比特币吗？"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.717167cb-85dd-42ac-81e6-bbd101ca491a.content"
 msgid "We are not currently accepting bitcoin."
-msgstr ""
+msgstr "我们目前暂不接受比特币捐款。"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.e7ad7f16-3b98-4c67-aada-2eee7ac39acb.title"
 msgid "How can I turn off the appeal on the Thunderbird start page?"
-msgstr ""
+msgstr "怎样才能关闭 Thunderbird 启动页的捐款倡议？"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.e7ad7f16-3b98-4c67-aada-2eee7ac39acb.content"
 msgid "The start page appeal to donate can’t currently be turned off. If you like, you can change the start page to something else. To do this, in Thunderbird go to Options | General"
