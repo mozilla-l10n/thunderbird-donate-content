@@ -1,15 +1,20 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-23 14:10:32.306740+00:00\n"
+"PO-Revision-Date: 2020-11-23 18:29+0000\n"
+"Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: a9b7269b-14ec-4680-bbed-d6c149a4485c\n"
 
 msgctxt "title"
 msgid "Help"
-msgstr ""
+msgstr "Ajuda"
 
 msgctxt "seo_title"
 msgid "Get Help for Thunderbird Donations"
-msgstr ""
+msgstr "Obtenha ajuda sobre doações ao Thunderbird"
