@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-23 14:25:27.992589+00:00\n"
-"PO-Revision-Date: 2020-11-23 16:28+0000\n"
+"PO-Revision-Date: 2020-11-23 17:52+0000\n"
 "Last-Translator: Andreas Pettersson <az@kth.se>\n"
 "Language: sv_SE\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgstr "Vad är Thunderbirds förhållande till MZLA Technologies Corporation?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.36ffc3f6-b01b-4e17-a4a9-e67d780c48b7.content"
 msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
-msgstr ""
+msgstr "Thunderbird är ett projekt av MZLA Technologies Corporation, som är ett helägt dotterbolag till Mozilla Foundation."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a6e1885f-f164-4eec-9595-cea9a545e7e6.title"
 msgid "What are the ways I can give?"
@@ -41,7 +41,7 @@ msgstr "Hur kan jag donera?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a6e1885f-f164-4eec-9595-cea9a545e7e6.content"
 msgid "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>."
-msgstr ""
+msgstr "<a id=\"a1\">Besök den här länken för att göra en säker online-donation via kreditkort eller PayPal</a>."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.c492e102-0610-459c-81fe-16c0a6e9e11f.title"
 msgid "Why do you need my address in order to process a gift?"
@@ -126,10 +126,12 @@ msgstr ""
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.05da60c3-3805-4891-ad8c-e7bfa5c2442d.title"
 msgid "Who can I email directly with questions about giving?"
-msgstr ""
+msgstr "Vem kan jag mejla till med frågor om att donera?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.05da60c3-3805-4891-ad8c-e7bfa5c2442d.content"
 msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a id=\"a1\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical support, "
 "please head over to <a id=\"a2\">Thunderbird Support</a> for assistance."
 msgstr ""
+"Om du har en fråga om att donera till Thunderbird, vänligen kontakta oss via <a id=\"a1\">detta formulär</a>. Vi kommer att göra vårt bästa för att följa upp, så snart vi kan. Om du behöver teknisk "
+"support, gå till <a id=\"a2\">Thunderbird Support</a> för hjälp."
