@@ -1,15 +1,20 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-23 14:10:32.819431+00:00\n"
+"PO-Revision-Date: 2020-11-23 15:37+0000\n"
+"Last-Translator: Іhor Hordiichuk <igor_ck@outlook.com>\n"
+"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 94be51f7-1f10-41fb-a000-cfd913f02f0c\n"
 
 msgctxt "title"
 msgid "Help"
-msgstr ""
+msgstr "Довідка"
 
 msgctxt "seo_title"
 msgid "Get Help for Thunderbird Donations"
-msgstr ""
+msgstr "Отримайте допомогу щодо внесків для Thunderbird"
