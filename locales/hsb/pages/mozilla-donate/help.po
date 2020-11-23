@@ -1,15 +1,20 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-23 14:10:31.830179+00:00\n"
+"PO-Revision-Date: 2020-11-23 14:16+0000\n"
+"Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
+"Language: hsb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 3677e289-6993-4b86-b922-5cd280a1b444\n"
 
 msgctxt "title"
 msgid "Help"
-msgstr ""
+msgstr "Pomoc"
 
 msgctxt "seo_title"
 msgid "Get Help for Thunderbird Donations"
-msgstr ""
+msgstr "Wobstarajće sej pomoc za dary Thunderbird"
