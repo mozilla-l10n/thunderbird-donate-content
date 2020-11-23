@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-23 14:10:32.761183+00:00\n"
+"PO-Revision-Date: 2020-11-23 15:25+0000\n"
+"Last-Translator: Selim Şumlu <selim@sum.lu>\n"
+"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: ecf04247-f064-4d94-9a3e-697a8bca4e17\n"
 
 msgctxt "title"
 msgid "Help"
-msgstr ""
+msgstr "Yardım"
 
 msgctxt "seo_title"
 msgid "Get Help for Thunderbird Donations"
