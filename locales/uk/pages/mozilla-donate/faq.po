@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-23 14:25:28.027345+00:00\n"
-"PO-Revision-Date: 2020-11-23 18:43+0000\n"
+"PO-Revision-Date: 2020-11-23 18:54+0000\n"
 "Last-Translator: Іhor Hordiichuk <igor_ck@outlook.com>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -83,44 +83,50 @@ msgid ""
 "Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
 "development."
 msgstr ""
+"Thunderbird — провідний клієнт електронної пошти й календаря з відкритим кодом для всіх платформ, безкоштовний для бізнесу та особистого користування. Ваш дарунок допоможе нам продовжувати рухатись "
+"в цьому ж напрямку й підтримає майбутню розробку."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.20921238-be13-4535-bae3-ed933869c362.title"
 msgid "Doesn’t Thunderbird earn income?"
-msgstr ""
+msgstr "Thunderbird не отримує прибутку?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.20921238-be13-4535-bae3-ed933869c362.content"
 msgid "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird."
-msgstr ""
+msgstr "Нині більша частина доходу Thunderbird надходить від щедрих подарунків користувачів та друзів Thunderbird."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a4757741-e6bb-456a-8bd7-a15557e0c21b.title"
 msgid "Who gives to Thunderbird?"
-msgstr ""
+msgstr "Хто допомагає Thunderbird?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a4757741-e6bb-456a-8bd7-a15557e0c21b.content"
 msgid "Anyone can give, companies and individuals, to Thunderbird to support development of the product now and in the future."
-msgstr ""
+msgstr "Будь-хто, і компанії, і окремі особи можуть допомогти Thunderbird, підтримати розробку продукту зараз та в майбутньому."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.7e4bb215-32a3-4c9f-a9db-2a0ba19f0e8f.title"
 msgid "Does my gift give me access to tech support?"
-msgstr ""
+msgstr "Чи надасть мені мій дарунок доступ до технічної підтримки?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.7e4bb215-32a3-4c9f-a9db-2a0ba19f0e8f.content"
 msgid "Anyone can access tech support for Thunderbird by visiting the <a id=\"a1\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial gifts."
 msgstr ""
+"Будь-хто може отримати доступ до технічної підтримки Thunderbird, відвідавши <a id=\"a1\">форум підтримки</a>. Thunderbird не надає технічну підтримку чи розширену технічну підтримку в обмін на "
+"фінансові дарунки."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.ff95ca71-27c4-4ef6-b3d1-b1c4b55b19ea.title"
 msgid "Is my gift tax deductible?"
-msgstr ""
+msgstr "Чи оподатковується мій дарунок?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.ff95ca71-27c4-4ef6-b3d1-b1c4b55b19ea.content"
 msgid ""
 "Gifts to Thunderbird are not tax-deductible, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-platform email and calendaring client, free "
 "for business and personal use. Your gift will help ensure it stays that way, and will support future development."
 msgstr ""
+"Дарунки для Thunderbird не оподатковуються, але дуже очікувані. Дарунки для Thunderbird підтримують розробку нашого провідного міжплатформового клієнта електронної пошти та календаря з відкритим "
+"джерельним кодом, безплатного для бізнесу та особистого користування. Ваш дарунок допоможе забезпечити його збереження та підтримає подальший розвиток."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.65e3527b-81f5-4025-82d0-67e840e54a11.title"
 msgid "How do I cancel or change my recurring gift?"
-msgstr ""
+msgstr "Як мені скасувати або змінити повторюваний дарунок?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.65e3527b-81f5-4025-82d0-67e840e54a11.content"
 msgid ""
