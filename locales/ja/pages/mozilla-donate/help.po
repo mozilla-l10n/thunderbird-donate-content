@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-11-23 14:10:31.936765+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 753f9b8d-1510-4926-b8de-8df44acbc567\n"
+
+msgctxt "title"
+msgid "Help"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Get Help for Thunderbird Donations"
+msgstr ""
