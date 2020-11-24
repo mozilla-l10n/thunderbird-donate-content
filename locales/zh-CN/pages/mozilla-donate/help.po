@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-23 14:10:32.868725+00:00\n"
-"PO-Revision-Date: 2020-11-24 02:08+0000\n"
+"PO-Revision-Date: 2020-11-24 13:50+0000\n"
 "Last-Translator: 你我皆凡人 <eloli@foxmail.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -17,4 +17,4 @@ msgstr "帮助"
 
 msgctxt "seo_title"
 msgid "Get Help for Thunderbird Donations"
-msgstr ""
+msgstr "Thunderbird 捐赠 — 获取帮助"
