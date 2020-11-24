@@ -1,15 +1,20 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-23 14:10:32.213508+00:00\n"
+"PO-Revision-Date: 2020-11-24 11:04+0000\n"
+"Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 00e326a3-ff03-4339-8483-3cbfc21c886f\n"
 
 msgctxt "title"
 msgid "Help"
-msgstr ""
+msgstr "Help"
 
 msgctxt "seo_title"
 msgid "Get Help for Thunderbird Donations"
-msgstr ""
+msgstr "Hulp verkrijgen voor Thunderbird-donaties"
