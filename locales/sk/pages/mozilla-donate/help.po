@@ -1,15 +1,20 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-23 14:10:32.506269+00:00\n"
+"PO-Revision-Date: 2020-11-25 16:22+0000\n"
+"Last-Translator: Juraj Cigáň <kusavica@gmail.com>\n"
+"Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 0b97daf9-9f87-433d-bf9c-df960eb6be40\n"
 
 msgctxt "title"
 msgid "Help"
-msgstr ""
+msgstr "Pomocník"
 
 msgctxt "seo_title"
 msgid "Get Help for Thunderbird Donations"
-msgstr ""
+msgstr "Pomoc s príspevkami pre Thunderbird"
