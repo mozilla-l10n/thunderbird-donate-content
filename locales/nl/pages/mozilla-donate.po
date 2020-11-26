@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:52.712758+00:00\n"
-"PO-Revision-Date: 2020-11-20 09:56+0000\n"
-"Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
+"PO-Revision-Date: 2020-11-23 14:21+0000\n"
+"Last-Translator: Onno Ekker <o.e.ekker@gmail.com>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -24,8 +24,8 @@ msgid ""
 "We’re the leading open source cross-platform email and calendaring client, free for business and personal use. By contributing you’ll help ensure it stays that way and contribute towards future "
 "development. Will you give today?"
 msgstr ""
-"We zijn de leidende open source en platformonafhankelijke e-mail- en agendaclient, gratis voor zakelijk en persoonlijk gebruik. Door uw bijdrage, helpt u ervoor te zorgen dat dit zo blijft en draagt"
-" u bij aan de toekomstige ontwikkeling. Wilt u vandaag doneren?"
+"We zijn de leidende opensource en platformonafhankelijke e-mail- en agendaclient, gratis voor zakelijk en persoonlijk gebruik. Door uw bijdrage, helpt u ervoor te zorgen dat dit zo blijft en draagt "
+"u bij aan de toekomstige ontwikkeling. Wilt u vandaag doneren?"
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
