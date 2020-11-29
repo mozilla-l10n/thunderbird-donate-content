@@ -1,25 +1,32 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:52.556526+00:00\n"
+"PO-Revision-Date: 2020-11-29 15:22+0000\n"
+"Last-Translator: Valdis Vitolins <valdis.vitolins@odo.lv>\n"
+"Language: lv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 1dc50ca9-f40e-463d-aa54-af7082bce173\n"
 
 msgctxt "seo_title"
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Ziedojiet Thunderbird"
 
 msgctxt "search_description"
 msgid "I gave to @mozthunderbird today to #freetheinbox. Join me to support communication privacy."
-msgstr ""
+msgstr "Es šodien ziedoju @mozthunderbird ar #freeheinbox. Pievienojieties man, un atbalstiet saziņas privātumu."
 
 msgctxt "intro"
 msgid ""
 "We’re the leading open source cross-platform email and calendaring client, free for business and personal use. By contributing you’ll help ensure it stays that way and contribute towards future "
 "development. Will you give today?"
 msgstr ""
+"Mēs esam vadošais atvērtā pirmkoda starpplatformu epasta un kalendāra klients, kas ir bez maksas gan personīgai, gan uzņēmējdarbības lietošanai. Veicot ziedojumu, jūs palīdzēsiet nodrošināt tā "
+"pastāvēšanu un veicināsiet turpmāko attīstību. Vai jūs šodien ziedosiet?"
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
-msgstr ""
+msgstr "Ziedojumi nav atskaitāmi no nodokļiem kā labdarības iemaksas."
