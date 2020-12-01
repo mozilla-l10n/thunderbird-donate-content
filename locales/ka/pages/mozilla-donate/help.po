@@ -1,15 +1,20 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-23 14:10:31.970532+00:00\n"
+"PO-Revision-Date: 2020-12-01 09:41+0000\n"
+"Last-Translator: G12r <georgianization@outlook.com>\n"
+"Language: ka\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 5ad72996-a25b-46f6-b7b8-fa1ef3ccc9a7\n"
 
 msgctxt "title"
 msgid "Help"
-msgstr ""
+msgstr "დახმარება"
 
 msgctxt "seo_title"
 msgid "Get Help for Thunderbird Donations"
-msgstr ""
+msgstr "მიიღეთ დახმარება, Thunderbird-ის შემოწირულობების შესახებ"
