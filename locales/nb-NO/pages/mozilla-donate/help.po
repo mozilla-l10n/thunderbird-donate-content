@@ -1,15 +1,20 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-23 14:10:32.162292+00:00\n"
+"PO-Revision-Date: 2020-12-01 21:06+0000\n"
+"Last-Translator: Håvar Henriksen <havar@firefox.no>\n"
+"Language: nb_NO\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 1419b1b3-1662-4436-ad60-35963401778f\n"
 
 msgctxt "title"
 msgid "Help"
-msgstr ""
+msgstr "Hjelp"
 
 msgctxt "seo_title"
 msgid "Get Help for Thunderbird Donations"
-msgstr ""
+msgstr "Få hjelp med Thunderbird-donasjoner"
