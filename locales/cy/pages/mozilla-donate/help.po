@@ -1,15 +1,20 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-12-08 09:20:13.672372+00:00\n"
+"PO-Revision-Date: 2020-12-08 15:34+0000\n"
+"Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
+"Language: cy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n == 3) ? 3 : ((n == 6) ? 4 : 5))));\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 3c5832ac-5359-4e40-bea4-05fb691586ed\n"
 
 msgctxt "title"
 msgid "Help"
-msgstr ""
+msgstr "Cymorth"
 
 msgctxt "seo_title"
 msgid "Get Help for Thunderbird Donations"
-msgstr ""
+msgstr "Cael Cymorth gyda Rhoddion Thunderbird"
