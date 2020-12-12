@@ -1,25 +1,32 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-12-08 09:20:13.651235+00:00\n"
+"PO-Revision-Date: 2020-12-12 08:54+0000\n"
+"Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
+"Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: afe6fd9d-c885-470a-a51e-0eadefaf27a2\n"
 
 msgctxt "seo_title"
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Quyên góp cho Thunderbird"
 
 msgctxt "search_description"
 msgid "I gave to @mozthunderbird today to #freetheinbox. Join me to support communication privacy."
-msgstr ""
+msgstr "Hôm nay tôi đã tặng @mozthunderbird cho #freetheinbox. Tham gia cùng tôi để hỗ trợ quyền riêng tư trong giao tiếp."
 
 msgctxt "intro"
 msgid ""
 "We’re the leading open source cross-platform email and calendaring client, free for business and personal use. By contributing you’ll help ensure it stays that way and contribute towards future "
 "development. Will you give today?"
 msgstr ""
+"Chúng tôi là khách hàng lập lịch và email đa nền tảng mã nguồn mở hàng đầu, miễn phí cho doanh nghiệp và cá nhân. Bằng cách đóng góp, bạn sẽ giúp đảm bảo rằng nó vẫn như vậy và đóng góp cho sự phát "
+"triển trong tương lai. Bạn sẽ quyên góp ngay hôm nay?"
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
-msgstr ""
+msgstr "Các khoản đóng góp không được khấu trừ thuế như các khoản đóng góp từ thiện."

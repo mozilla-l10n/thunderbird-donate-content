@@ -1,15 +1,20 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-12-08 09:20:13.713132+00:00\n"
+"PO-Revision-Date: 2020-12-12 08:52+0000\n"
+"Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
+"Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: c393eb40-a025-49e3-9f60-537439398ef6\n"
 
 msgctxt "title"
 msgid "Help"
-msgstr ""
+msgstr "Trợ giúp"
 
 msgctxt "seo_title"
 msgid "Get Help for Thunderbird Donations"
-msgstr ""
+msgstr "Nhận trợ giúp cho các khoản quyên góp của Thunderbird"
