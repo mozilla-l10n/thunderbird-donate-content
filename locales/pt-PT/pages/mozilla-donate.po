@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:52.894607+00:00\n"
+"PO-Revision-Date: 2020-12-12 00:26+0000\n"
+"Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
+"Language: pt_PT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: ba13d5aa-fd1a-43a0-a750-9f7e76caaa50\n"
 
 msgctxt "seo_title"
@@ -22,4 +27,4 @@ msgstr ""
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
-msgstr ""
+msgstr "As contribuições não são dedutíveis nos impostos como contribuições de caridade."
