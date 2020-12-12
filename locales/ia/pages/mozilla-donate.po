@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-12-08 09:20:13.630527+00:00\n"
+"PO-Revision-Date: 2020-12-12 10:40+0000\n"
+"Last-Translator: nicolas stampf <nicolas.stampf@gmail.com>\n"
+"Language: ia\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: cdd14a95-a47b-477a-9382-2d5169bc5fb9\n"
 
 msgctxt "seo_title"
@@ -12,7 +17,7 @@ msgstr ""
 
 msgctxt "search_description"
 msgid "I gave to @mozthunderbird today to #freetheinbox. Join me to support communication privacy."
-msgstr ""
+msgstr "Io hodie ha facite un donation a @mozthunderbird pro #freetheinbox. Junge me pro supportar le confidentialitate del communicationes."
 
 msgctxt "intro"
 msgid ""
