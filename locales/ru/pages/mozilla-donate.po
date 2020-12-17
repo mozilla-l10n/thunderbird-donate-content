@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:52.993928+00:00\n"
-"PO-Revision-Date: 2020-11-20 14:59+0000\n"
-"Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
+"PO-Revision-Date: 2020-12-16 20:38+0000\n"
+"Last-Translator: Victor Bychek <a@bychek.ru>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -17,7 +17,7 @@ msgstr "Помочь Thunderbird"
 
 msgctxt "search_description"
 msgid "I gave to @mozthunderbird today to #freetheinbox. Join me to support communication privacy."
-msgstr "Я пожертвовал @mozthunderbird сегодня на #freetheinbox. Присоединяйтесь ко мне, чтобы поддержать приватность общения."
+msgstr "Я жертвую @mozthunderbird сегодня на #freetheinbox. Присоединяйтесь ко мне, чтобы поддержать приватность общения."
 
 msgctxt "intro"
 msgid ""
