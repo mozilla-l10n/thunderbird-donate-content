@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-12-15 13:34:49.618587+00:00\n"
-"PO-Revision-Date: 2020-12-19 17:06+0000\n"
+"PO-Revision-Date: 2020-12-19 17:13+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -13,23 +13,23 @@ msgstr ""
 
 msgctxt "title"
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "常見問題"
 
 msgctxt "seo_title"
 msgid "Thunderbird Giving FAQ"
-msgstr ""
+msgstr "Thunderbird 捐款常見問題 FAQ"
 
 msgctxt "search_description"
 msgid "Frequently asked questions about giving to Thunderbird"
-msgstr ""
+msgstr "關於捐款給 Thunderbird 的常見問題"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.title"
 msgid "Thunderbird Gift FAQs"
-msgstr ""
+msgstr "Thunderbird 捐款常見問題 FAQ"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.36ffc3f6-b01b-4e17-a4a9-e67d780c48b7.title"
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
-msgstr ""
+msgstr "Thunderbird 與 MZLA Technologies Corporation 的關係是什麼？"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.36ffc3f6-b01b-4e17-a4a9-e67d780c48b7.content"
 msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
@@ -37,7 +37,7 @@ msgstr ""
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a6e1885f-f164-4eec-9595-cea9a545e7e6.title"
 msgid "What are the ways I can give?"
-msgstr ""
+msgstr "有哪些捐款方式？"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a6e1885f-f164-4eec-9595-cea9a545e7e6.content"
 msgid "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>."
@@ -45,7 +45,7 @@ msgstr ""
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.c492e102-0610-459c-81fe-16c0a6e9e11f.title"
 msgid "Why do you need my address in order to process a gift?"
-msgstr ""
+msgstr "為什麼您們需要我的地址才能處理捐款？"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.c492e102-0610-459c-81fe-16c0a6e9e11f.content"
 msgid ""
@@ -56,19 +56,19 @@ msgstr ""
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.717167cb-85dd-42ac-81e6-bbd101ca491a.title"
 msgid "Can I give bitcoin?"
-msgstr ""
+msgstr "我可以捐比特幣嗎？"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.717167cb-85dd-42ac-81e6-bbd101ca491a.content"
 msgid "We are not currently accepting bitcoin."
-msgstr ""
+msgstr "目前暫不接受比特幣捐款。"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.e7ad7f16-3b98-4c67-aada-2eee7ac39acb.title"
 msgid "How can I turn off the appeal on the Thunderbird start page?"
-msgstr ""
+msgstr "我要怎麼關掉 Thunderbird 開始頁的募款廣告？"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.e7ad7f16-3b98-4c67-aada-2eee7ac39acb.content"
 msgid "The start page appeal to donate can’t currently be turned off. If you like, you can change the start page to something else. To do this, in Thunderbird go to Options | General"
-msgstr ""
+msgstr "目前暫時無法關閉開始頁中的募款廣告。但您可以將開始頁設為其他頁面。若要這樣做，請到 Thunderbird 的選項 -> 一般當中切換。"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.8dd4b22e-d86c-445b-948f-83ef4b2c4552.title"
 msgid "How will my gift be used?"
@@ -78,7 +78,7 @@ msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.8dd4b22e-d86c-445b-948f
 msgid ""
 "Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
 "development."
-msgstr ""
+msgstr "Thunderbird 是業界領先，開放原始碼、跨平台的電子郵件與行事曆軟體，個人與商業上皆可免費使用。您的捐款可幫助我們持續發展。"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.20921238-be13-4535-bae3-ed933869c362.title"
 msgid "Doesn’t Thunderbird earn income?"
@@ -90,23 +90,23 @@ msgstr ""
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a4757741-e6bb-456a-8bd7-a15557e0c21b.title"
 msgid "Who gives to Thunderbird?"
-msgstr ""
+msgstr "誰能捐款給 Thunderbird？"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a4757741-e6bb-456a-8bd7-a15557e0c21b.content"
 msgid "Anyone can give, companies and individuals, to Thunderbird to support development of the product now and in the future."
-msgstr ""
+msgstr "任何人、企業皆可捐款給 Thunderbird 以支持產品目前與未來的發展。"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.7e4bb215-32a3-4c9f-a9db-2a0ba19f0e8f.title"
 msgid "Does my gift give me access to tech support?"
-msgstr ""
+msgstr "我捐款之後能獲得技術支援嗎？"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.7e4bb215-32a3-4c9f-a9db-2a0ba19f0e8f.content"
 msgid "Anyone can access tech support for Thunderbird by visiting the <a id=\"a1\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial gifts."
-msgstr ""
+msgstr "任何人都可以透過<a id=\"a1\">技術支援討論區</a>得到 Thunderbird 技術支援。Thunderbird 並不會特別為捐款者提供更多的技術支援。"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.ff95ca71-27c4-4ef6-b3d1-b1c4b55b19ea.title"
 msgid "Is my gift tax deductible?"
-msgstr ""
+msgstr "我的捐款能抵稅嗎？"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.ff95ca71-27c4-4ef6-b3d1-b1c4b55b19ea.content"
 msgid ""
@@ -116,17 +116,17 @@ msgstr ""
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.65e3527b-81f5-4025-82d0-67e840e54a11.title"
 msgid "How do I cancel or change my recurring gift?"
-msgstr ""
+msgstr "我要如何取消或變更我的定期捐款設定？"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.65e3527b-81f5-4025-82d0-67e840e54a11.content"
 msgid ""
 "If you used PayPal to set up a recurring gift, you’ll need to <a id=\"a1\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly gift using your credit card, please "
 "contact to the Donor Care team <a id=\"a2\">via this form</a>. Please include the email address and name you used to make your donation, and they’ll try to help you within two business days."
-msgstr ""
+msgstr "若您使用 PayPal 設定了定期捐款，需要<a id=\"a1\">登入 PayPal 帳號</a>才能進行變更或取消。若您曾透過您的信用卡設定每月定期捐款，請填寫<a id=\"a2\">這份表單</a>聯絡我們的 Donor Care 團隊。請在表單中註明您用來捐款的電子郵件地址與姓名，我們會在兩個工作天內回覆處理。"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.05da60c3-3805-4891-ad8c-e7bfa5c2442d.title"
 msgid "Who can I email directly with questions about giving?"
-msgstr ""
+msgstr "我還有其他捐款問題，可以寄信給誰直接問問題？"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.05da60c3-3805-4891-ad8c-e7bfa5c2442d.content"
 msgid ""
