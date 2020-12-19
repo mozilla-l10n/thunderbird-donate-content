@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-12-15 13:34:49.618587+00:00\n"
-"PO-Revision-Date: 2020-12-19 17:13+0000\n"
+"PO-Revision-Date: 2020-12-19 17:22+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgstr "Thunderbird 與 MZLA Technologies Corporation 的關係是什麼？"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.36ffc3f6-b01b-4e17-a4a9-e67d780c48b7.content"
 msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
-msgstr ""
+msgstr "MZLA Technologies Corporation 是 Mozilla Foundation 的全資子公司，而 Thunderbird 是由 MZLA Technologies Corporation 營運的軟體專案。"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a6e1885f-f164-4eec-9595-cea9a545e7e6.title"
 msgid "What are the ways I can give?"
@@ -41,7 +41,7 @@ msgstr "有哪些捐款方式？"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a6e1885f-f164-4eec-9595-cea9a545e7e6.content"
 msgid "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>."
-msgstr ""
+msgstr "<a id=\"a1\">請到此鏈結來使用信用卡或 PayPal 進行安全線上捐款</a>。"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.c492e102-0610-459c-81fe-16c0a6e9e11f.title"
 msgid "Why do you need my address in order to process a gift?"
@@ -52,7 +52,7 @@ msgid ""
 "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit card payments, including billing addresses. This allows our payment processor"
 " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a id=\"a1\">Privacy"
 " Policy</a>. If you would rather not fill in your information on our online form, you can mail us a check."
-msgstr ""
+msgstr "我們了解您的隱私非常重要。我們只會針對處理您的信用卡交易要求取得最少量的資訊，包含帳單地址等。這些資料讓我們的金流廠商能夠確認您的身分、處理付款，並避免您的信用卡遭受盜刷。我們會確保您的資料隱私，若有任何相關問題，請參考我們的<a id=\"a1\">隱私權保護政策</a>。若您不想要在線上捐款表單填寫您的資料，也可以郵寄支票給我們。"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.717167cb-85dd-42ac-81e6-bbd101ca491a.title"
 msgid "Can I give bitcoin?"
@@ -86,7 +86,7 @@ msgstr "Thunderbird 不賺錢嗎？"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.20921238-be13-4535-bae3-ed933869c362.content"
 msgid "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird."
-msgstr ""
+msgstr "目前 Thunderbird 的收入大部分都來自於使用者與 Thunderbird 之友的慷慨捐款。"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a4757741-e6bb-456a-8bd7-a15557e0c21b.title"
 msgid "Who gives to Thunderbird?"
