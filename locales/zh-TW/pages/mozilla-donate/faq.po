@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-12-15 13:34:49.618587+00:00\n"
-"PO-Revision-Date: 2020-12-19 17:22+0000\n"
+"PO-Revision-Date: 2020-12-20 13:55+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -112,7 +112,7 @@ msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.ff95ca71-27c4-4ef6-b3d1
 msgid ""
 "Gifts to Thunderbird are not tax-deductible, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-platform email and calendaring client, free "
 "for business and personal use. Your gift will help ensure it stays that way, and will support future development."
-msgstr ""
+msgstr "對 Thunderbird 的捐款無法抵稅，但仍不勝感激。捐款給 Thunderbird 可支持我們在業界領先的開放原始碼跨平台電子郵件與行事曆軟體的開發（且不論是企業或個人使用皆自由免費）。您的捐款可確保其能持續運作，並支持未來的發展。"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.65e3527b-81f5-4025-82d0-67e840e54a11.title"
 msgid "How do I cancel or change my recurring gift?"
@@ -132,4 +132,4 @@ msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.05da60c3-3805-4891-ad8c
 msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a id=\"a1\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical support, "
 "please head over to <a id=\"a2\">Thunderbird Support</a> for assistance."
-msgstr ""
+msgstr "若您有關於捐款給 Thunderbird 的相關問題，請透過<a id=\"a1\">這張表單</a>聯絡我們。我們將盡快回覆。若您需要技術支援，請到<a id=\"a2\">Thunderbird 技術支援網站</a>取得協助。"
