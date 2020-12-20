@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:53.081090+00:00\n"
+"PO-Revision-Date: 2020-12-20 13:23+0000\n"
+"Last-Translator: Lan Glad <upwinxp@gmail.com>\n"
+"Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 0cd02dff-d946-4bb7-a189-d97291be5284\n"
 
 msgctxt "seo_title"
@@ -22,4 +27,4 @@ msgstr ""
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
-msgstr ""
+msgstr "Prispevki niso oproščeni plačila davka kot dobrodelni prispevki."
