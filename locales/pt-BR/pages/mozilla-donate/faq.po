@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-12-15 13:34:49.501480+00:00\n"
-"PO-Revision-Date: 2020-12-21 23:33+0000\n"
+"PO-Revision-Date: 2020-12-21 23:40+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -60,53 +60,55 @@ msgstr "Posso doar bitcoin?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.717167cb-85dd-42ac-81e6-bbd101ca491a.content"
 msgid "We are not currently accepting bitcoin."
-msgstr ""
+msgstr "Não estamos aceitando bitcoin atualmente."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.e7ad7f16-3b98-4c67-aada-2eee7ac39acb.title"
 msgid "How can I turn off the appeal on the Thunderbird start page?"
-msgstr ""
+msgstr "Como posso desativar o pedido na página inicial do Thunderbird?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.e7ad7f16-3b98-4c67-aada-2eee7ac39acb.content"
 msgid "The start page appeal to donate can’t currently be turned off. If you like, you can change the start page to something else. To do this, in Thunderbird go to Options | General"
-msgstr ""
+msgstr "O pedido de doação da página inicial atualmente não pode ser desativado. Se quiser, você pode mudar a página inicial para outra coisa. Para fazer isso, no Thunderbird vá em Opções | Geral"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.8dd4b22e-d86c-445b-948f-83ef4b2c4552.title"
 msgid "How will my gift be used?"
-msgstr ""
+msgstr "Como minha doação será usada?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.8dd4b22e-d86c-445b-948f-83ef4b2c4552.content"
 msgid ""
 "Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
 "development."
 msgstr ""
+"O Thunderbird é o principal cliente de email e agenda multiplataforma de código aberto, livre para uso comercial e pessoal. Sua doação ajudará a garantir que isto continue assim e apoiará "
+"desenvolvimentos futuros."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.20921238-be13-4535-bae3-ed933869c362.title"
 msgid "Doesn’t Thunderbird earn income?"
-msgstr ""
+msgstr "O Thunderbird não gera renda?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.20921238-be13-4535-bae3-ed933869c362.content"
 msgid "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird."
-msgstr ""
+msgstr "Atualmente, a maior parte da receita do Thunderbird vem de doações generosas de usuários e amigos do Thunderbird."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a4757741-e6bb-456a-8bd7-a15557e0c21b.title"
 msgid "Who gives to Thunderbird?"
-msgstr ""
+msgstr "Quem doa ao Thunderbird?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a4757741-e6bb-456a-8bd7-a15557e0c21b.content"
 msgid "Anyone can give, companies and individuals, to Thunderbird to support development of the product now and in the future."
-msgstr ""
+msgstr "Qualquer um, empresa ou pessoa, pode doar para o Thunderbird para apoiar o desenvolvimento do produto, agora e no futuro."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.7e4bb215-32a3-4c9f-a9db-2a0ba19f0e8f.title"
 msgid "Does my gift give me access to tech support?"
-msgstr ""
+msgstr "Minha doação me dá acesso a suporte técnico?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.7e4bb215-32a3-4c9f-a9db-2a0ba19f0e8f.content"
 msgid "Anyone can access tech support for Thunderbird by visiting the <a id=\"a1\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial gifts."
-msgstr ""
+msgstr "Qualquer um pode acessar o suporte técnico do Thunderbird visitando o <a id=\"a1\">fórum de suporte</a>. O Thunderbird não fornece suporte técnico ou suporte técnico avançado em troca de doações."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.ff95ca71-27c4-4ef6-b3d1-b1c4b55b19ea.title"
 msgid "Is my gift tax deductible?"
-msgstr ""
+msgstr "Minha doação é dedutível de impostos?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.ff95ca71-27c4-4ef6-b3d1-b1c4b55b19ea.content"
 msgid ""
@@ -116,7 +118,7 @@ msgstr ""
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.65e3527b-81f5-4025-82d0-67e840e54a11.title"
 msgid "How do I cancel or change my recurring gift?"
-msgstr ""
+msgstr "Como cancelar ou alterar minha doação recorrente?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.65e3527b-81f5-4025-82d0-67e840e54a11.content"
 msgid ""
@@ -126,7 +128,7 @@ msgstr ""
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.05da60c3-3805-4891-ad8c-e7bfa5c2442d.title"
 msgid "Who can I email directly with questions about giving?"
-msgstr ""
+msgstr "A quem posso enviar um email diretamente com perguntas sobre doação?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.05da60c3-3805-4891-ad8c-e7bfa5c2442d.content"
 msgid ""
