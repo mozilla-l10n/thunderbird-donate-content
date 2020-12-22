@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-12-15 13:34:49.195838+00:00\n"
-"PO-Revision-Date: 2020-12-20 14:46+0000\n"
+"PO-Revision-Date: 2020-12-22 16:24+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -71,11 +71,11 @@ msgstr "Hogyan kapcsolhatja ki a felhívást a Thunderbird kezdőlapján?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.e7ad7f16-3b98-4c67-aada-2eee7ac39acb.content"
 msgid "The start page appeal to donate can’t currently be turned off. If you like, you can change the start page to something else. To do this, in Thunderbird go to Options | General"
-msgstr ""
+msgstr "A kezdőoldalon lévő adományozási felhívás jelenleg nem kapcsolható ki. Ha szeretné, megváltoztathatja a kezdőlapot. Ehhez ugorjon a Beállítások | Általános lapra."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.8dd4b22e-d86c-445b-948f-83ef4b2c4552.title"
 msgid "How will my gift be used?"
-msgstr ""
+msgstr "Hogyan lesz felhasználva az adománya?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.8dd4b22e-d86c-445b-948f-83ef4b2c4552.content"
 msgid ""
