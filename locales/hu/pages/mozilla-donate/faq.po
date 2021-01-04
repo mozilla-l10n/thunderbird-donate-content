@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-12-15 13:34:49.195838+00:00\n"
-"PO-Revision-Date: 2020-12-22 16:39+0000\n"
+"PO-Revision-Date: 2021-01-04 12:08+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -134,7 +134,7 @@ msgstr ""
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.05da60c3-3805-4891-ad8c-e7bfa5c2442d.title"
 msgid "Who can I email directly with questions about giving?"
-msgstr ""
+msgstr "Kinek írhatok közvetlenül e-mailt az adományozással kapcsolatos kérdésekkel?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.05da60c3-3805-4891-ad8c-e7bfa5c2442d.content"
 msgid ""
