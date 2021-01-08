@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:53.081090+00:00\n"
-"PO-Revision-Date: 2020-12-20 13:23+0000\n"
+"PO-Revision-Date: 2020-12-20 13:25+0000\n"
 "Last-Translator: Lan Glad <upwinxp@gmail.com>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
@@ -24,6 +24,8 @@ msgid ""
 "We’re the leading open source cross-platform email and calendaring client, free for business and personal use. By contributing you’ll help ensure it stays that way and contribute towards future "
 "development. Will you give today?"
 msgstr ""
+"Smo vodilni odprtokodni večplatformni e-poštni odjemalec, ki je brezplačen tako za poslovno kot za osebno uporabo. Vaša donacija bo pomagala zagotoviti, da bo tako tudi ostalo, in podprla nadaljnji "
+"razvoj. Boste donirali danes?"
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
