@@ -1,25 +1,31 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:51.250286+00:00\n"
+"PO-Revision-Date: 2021-01-10 13:00+0000\n"
+"Last-Translator: Michal Stanke <mstanke@mozilla.cz>\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: dc180280-6879-4cdd-b24f-46c05ca8469e\n"
 
 msgctxt "seo_title"
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Pošlete Thunderbirdu dar"
 
 msgctxt "search_description"
 msgid "I gave to @mozthunderbird today to #freetheinbox. Join me to support communication privacy."
-msgstr ""
+msgstr "Poslal(a) jsem dar @mozthunderbird, protože #chcisvobodnyemail #freetheinbox. Přidej se ke mně a pomoz mi chránit soukromou komunikaci."
 
 msgctxt "intro"
 msgid ""
 "We’re the leading open source cross-platform email and calendaring client, free for business and personal use. By contributing you’ll help ensure it stays that way and contribute towards future "
 "development. Will you give today?"
 msgstr ""
+"Jsme hlavním otevřeným a multiplatformním e-mailovým klientem, který je zdarma pro osobní i firemní použití. Svým darem pomůžete zajistit jeho zachování a podpoříte další vývoj. Darujete ještě dnes?"
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
-msgstr ""
+msgstr "Dary nejsou odečitatelné z daní jako příspěvky na dobročinné účely."
