@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-23 14:10:32.718483+00:00\n"
+"PO-Revision-Date: 2021-02-08 18:53+0000\n"
+"Last-Translator: వీవెన్ <veeven@gmail.com>\n"
+"Language: te\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 15e043b7-0cca-4659-be93-98ed6c7a08da\n"
 
 msgctxt "title"
 msgid "Help"
-msgstr ""
+msgstr "సహాయం"
 
 msgctxt "seo_title"
 msgid "Get Help for Thunderbird Donations"
