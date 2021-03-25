@@ -6,6 +6,10 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "X-WagtailLocalize-TranslationID: 47361676-3c0e-4200-89c1-645055905c87\n"
 
+msgctxt "title"
+msgid "Give to Thunderbird"
+msgstr ""
+
 msgctxt "seo_title"
 msgid "Give to Thunderbird"
 msgstr ""

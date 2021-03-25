@@ -11,6 +11,10 @@ msgstr ""
 "X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: cb20c20b-d311-4607-810b-e59942cc45e2\n"
 
+msgctxt "title"
+msgid "Give to Thunderbird"
+msgstr ""
+
 msgctxt "seo_title"
 msgid "Give to Thunderbird"
 msgstr "An Thunderbird spenden"
