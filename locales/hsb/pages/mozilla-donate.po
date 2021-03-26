@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:52.095813+00:00\n"
-"PO-Revision-Date: 2020-11-20 19:08+0000\n"
+"PO-Revision-Date: 2021-03-26 09:21+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language: hsb\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Za Thunderbird darić"
 
 msgctxt "seo_title"
 msgid "Give to Thunderbird"
