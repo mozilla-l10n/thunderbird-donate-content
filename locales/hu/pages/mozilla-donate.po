@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:52.131612+00:00\n"
-"PO-Revision-Date: 2020-11-20 23:35+0000\n"
+"PO-Revision-Date: 2021-03-26 15:01+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Adjon a Thunderbirdnek"
 
 msgctxt "seo_title"
 msgid "Give to Thunderbird"
