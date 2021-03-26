@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:53.378969+00:00\n"
-"PO-Revision-Date: 2020-11-20 20:54+0000\n"
+"PO-Revision-Date: 2021-03-26 00:14+0000\n"
 "Last-Translator: Іhor Hordiichuk <igor_ck@outlook.com>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Допомогти Thunderbird"
 
 msgctxt "seo_title"
 msgid "Give to Thunderbird"
