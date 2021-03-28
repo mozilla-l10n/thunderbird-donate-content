@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:51.250286+00:00\n"
-"PO-Revision-Date: 2021-01-10 13:00+0000\n"
+"PO-Revision-Date: 2021-03-28 18:11+0000\n"
 "Last-Translator: Michal Stanke <mstanke@mozilla.cz>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Pošlete Thunderbirdu dar"
 
 msgctxt "seo_title"
 msgid "Give to Thunderbird"
