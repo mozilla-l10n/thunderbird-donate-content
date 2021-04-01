@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:52.755477+00:00\n"
-"PO-Revision-Date: 2021-04-01 12:18+0000\n"
+"PO-Revision-Date: 2021-04-01 12:41+0000\n"
 "Last-Translator: Björn I. <bjorni.svindseth@yahoo.com>\n"
 "Language: nn_NO\n"
 "MIME-Version: 1.0\n"
@@ -33,4 +33,4 @@ msgstr ""
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
-msgstr ""
+msgstr "Bidrag gir ikkje rett til frådrag som velgjerande bidrag."
