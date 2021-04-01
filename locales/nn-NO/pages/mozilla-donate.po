@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:52.755477+00:00\n"
-"PO-Revision-Date: 2020-11-23 19:51+0000\n"
+"PO-Revision-Date: 2021-04-01 12:14+0000\n"
 "Last-Translator: Björn I. <bjorni.svindseth@yahoo.com>\n"
 "Language: nn_NO\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Gi til Thunderbird"
 
 msgctxt "seo_title"
 msgid "Give to Thunderbird"
@@ -21,7 +21,7 @@ msgstr "Gi til Thunderbird"
 
 msgctxt "search_description"
 msgid "I gave to @mozthunderbird today to #freetheinbox. Join me to support communication privacy."
-msgstr ""
+msgstr "Eg gav til @mozthunderbird i dag for å #freetheinbox. Ver med meg for å støtte kommunikasjonspersonvern."
 
 msgctxt "intro"
 msgid ""
