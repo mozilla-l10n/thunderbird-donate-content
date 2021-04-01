@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:52.755477+00:00\n"
-"PO-Revision-Date: 2021-04-01 12:14+0000\n"
+"PO-Revision-Date: 2021-04-01 12:18+0000\n"
 "Last-Translator: Björn I. <bjorni.svindseth@yahoo.com>\n"
 "Language: nn_NO\n"
 "MIME-Version: 1.0\n"
@@ -28,6 +28,8 @@ msgid ""
 "We’re the leading open source cross-platform email and calendaring client, free for business and personal use. By contributing you’ll help ensure it stays that way and contribute towards future "
 "development. Will you give today?"
 msgstr ""
+"Vi er den leiade plattformuavhengige e-post- og kalenderklienten med open kjedekode, gratis for bedrifter og personleg bruk. Ved å bidra kan du hjelpe til med at det framleis blir verande slik, i "
+"tillegg til framtidig utvikling. Vil du bidra i dag?"
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
