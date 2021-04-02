@@ -1,22 +1,27 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:51.963731+00:00\n"
+"PO-Revision-Date: 2021-04-02 16:12+0000\n"
+"Last-Translator: Ritesh Raj <ritesh07raj@gmail.com>\n"
+"Language: hi_IN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: faf0373f-2a5b-415a-a53d-32266600eeb2\n"
 
 msgctxt "title"
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Thunderbird को दें"
 
 msgctxt "seo_title"
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Thunderbird को दें"
 
 msgctxt "search_description"
 msgid "I gave to @mozthunderbird today to #freetheinbox. Join me to support communication privacy."
-msgstr ""
+msgstr "मैंने आज #freetheinbox को @mozthunderbird को दिया। संचार गोपनीयता का समर्थन करने के लिए मेरे साथ जुड़ें।"
 
 msgctxt "intro"
 msgid ""
