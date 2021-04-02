@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:51.963731+00:00\n"
-"PO-Revision-Date: 2021-04-02 16:12+0000\n"
+"PO-Revision-Date: 2021-04-02 16:18+0000\n"
 "Last-Translator: Ritesh Raj <ritesh07raj@gmail.com>\n"
 "Language: hi_IN\n"
 "MIME-Version: 1.0\n"
@@ -28,7 +28,9 @@ msgid ""
 "We’re the leading open source cross-platform email and calendaring client, free for business and personal use. By contributing you’ll help ensure it stays that way and contribute towards future "
 "development. Will you give today?"
 msgstr ""
+"हम अग्रणी ओपन सोर्स क्रॉस-प्लेटफॉर्म ईमेल और कैलेंडरिंग क्लाइंट हैं,  जो व्यवसाय और व्यक्तिगत उपयोग के लिए नि: शुल्क है। योगदान देने से आपको यह सुनिश्चित करने में मदद मिलेगी कि यह उस तरह से बना रहे "
+"और भविष्य के विकास में योगदान दे। क्या आप आज देंगे?"
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
-msgstr ""
+msgstr "आपका योगदान धर्मार्थ योगदान के जैसे कर-कटौती योग्य नहीं है।"
