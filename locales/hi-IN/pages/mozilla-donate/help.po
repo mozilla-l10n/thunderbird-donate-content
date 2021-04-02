@@ -1,15 +1,20 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-23 14:10:31.781965+00:00\n"
+"PO-Revision-Date: 2021-04-02 16:10+0000\n"
+"Last-Translator: Ritesh Raj <ritesh07raj@gmail.com>\n"
+"Language: hi_IN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 82d74bbd-0745-4dd6-8fc8-c888ef7de0f0\n"
 
 msgctxt "title"
 msgid "Help"
-msgstr ""
+msgstr "सहायता"
 
 msgctxt "seo_title"
 msgid "Get Help for Thunderbird Donations"
-msgstr ""
+msgstr "Thunderbird के दान के लिए सहायता पाएं"
