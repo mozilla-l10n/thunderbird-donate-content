@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:53.048409+00:00\n"
-"PO-Revision-Date: 2020-11-25 16:21+0000\n"
-"Last-Translator: Juraj Cigáň <kusavica@gmail.com>\n"
+"PO-Revision-Date: 2021-04-10 08:54+0000\n"
+"Last-Translator: Vlado Valaštiak <valastiak@mozilla.sk>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Prispejte Thunderbirdu"
 
 msgctxt "seo_title"
 msgid "Give to Thunderbird"
