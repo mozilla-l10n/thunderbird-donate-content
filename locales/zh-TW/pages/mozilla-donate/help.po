@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-23 14:10:32.893283+00:00\n"
-"PO-Revision-Date: 2020-11-23 14:31+0000\n"
+"PO-Revision-Date: 2021-04-20 09:35+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Donor Help"
-msgstr ""
+msgstr "捐款人幫助"
 
 msgctxt "seo_title"
 msgid "Get Help for Thunderbird Donations"
