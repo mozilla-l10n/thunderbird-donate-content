@@ -12,9 +12,13 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: a9d4841c-f5dd-4d37-9f1b-68b59e976780\n"
 
 msgctxt "title"
-msgid "Help"
-msgstr "Aide"
+msgid "Donor Help"
+msgstr ""
 
 msgctxt "seo_title"
 msgid "Get Help for Thunderbird Donations"
 msgstr "Obtenez de l’aide pour les dons à Thunderbird"
+
+#~ msgctxt "title"
+#~ msgid "Help"
+#~ msgstr "Aide"
