@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-12-08 09:20:13.672372+00:00\n"
-"PO-Revision-Date: 2020-12-08 15:34+0000\n"
+"PO-Revision-Date: 2021-04-20 16:29+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language: cy\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Donor Help"
-msgstr ""
+msgstr "Cymorth i Roddwyr"
 
 msgctxt "seo_title"
 msgid "Get Help for Thunderbird Donations"
