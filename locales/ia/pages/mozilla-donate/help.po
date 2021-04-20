@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-12-08 09:20:13.691131+00:00\n"
-"PO-Revision-Date: 2020-12-12 01:07+0000\n"
+"PO-Revision-Date: 2021-04-20 10:33+0000\n"
 "Last-Translator: Melo46 <melo@carmu.com>\n"
 "Language: ia\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Donor Help"
-msgstr ""
+msgstr "Auxilio del donator"
 
 msgctxt "seo_title"
 msgid "Get Help for Thunderbird Donations"
