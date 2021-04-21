@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-23 14:10:32.213508+00:00\n"
-"PO-Revision-Date: 2020-11-24 11:04+0000\n"
+"PO-Revision-Date: 2021-04-20 08:36+0000\n"
 "Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Donor Help"
-msgstr ""
+msgstr "Hulp voor donateurs"
 
 msgctxt "seo_title"
 msgid "Get Help for Thunderbird Donations"
