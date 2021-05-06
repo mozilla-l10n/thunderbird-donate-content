@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:52.387716+00:00\n"
-"PO-Revision-Date: 2020-12-30 08:43+0000\n"
+"PO-Revision-Date: 2021-05-06 17:34+0000\n"
 "Last-Translator: Muhend Belkacem <taqbaylitassa@gmail.com>\n"
 "Language: kab\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Efk i Thunderbird"
 
 msgctxt "seo_title"
 msgid "Give to Thunderbird"
