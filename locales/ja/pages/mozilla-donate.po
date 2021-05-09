@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:52.288203+00:00\n"
-"PO-Revision-Date: 2021-05-09 01:49+0000\n"
+"PO-Revision-Date: 2021-05-09 01:58+0000\n"
 "Last-Translator: marsf <chimantaea_mirabilis@yahoo.co.jp>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -27,8 +27,8 @@ msgctxt "intro"
 msgid ""
 "We’re the leading open source cross-platform email and calendaring client, free for business and personal use. By contributing you’ll help ensure it stays that way and contribute towards future "
 "development. Will you give today?"
-msgstr ""
+msgstr "私たちは、ビジネスおよび個人使用のためのクロスプラットフォームで動作するオープンソースの電子メールおよびカレンダークライアントソフトウェアをリードしています。皆さまの寄付により、私たちの活動が維持され、将来の発展に貢献することが確かにされます。ご支援をお願いいたします。"
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
-msgstr ""
+msgstr "寄付は慈善寄付として扱われ、税控除の対象にはなりません。"
