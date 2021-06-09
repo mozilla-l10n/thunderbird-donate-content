@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-23 14:10:32.718483+00:00\n"
-"PO-Revision-Date: 2021-02-08 18:53+0000\n"
+"PO-Revision-Date: 2021-06-09 11:18+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language: te\n"
 "MIME-Version: 1.0\n"
@@ -13,11 +13,11 @@ msgstr ""
 
 msgctxt "title"
 msgid "Donor Help"
-msgstr ""
+msgstr "దాత సహాయం"
 
 msgctxt "seo_title"
 msgid "Get Help for Thunderbird Donations"
-msgstr ""
+msgstr "థండర్‌బర్డ్ విరాళాల కోసం సహాయం పొందండి"
 
 #~ msgctxt "title"
 #~ msgid "Help"
