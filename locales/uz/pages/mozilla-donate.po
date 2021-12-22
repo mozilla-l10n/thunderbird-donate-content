@@ -1,18 +1,23 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:53.432882+00:00\n"
+"PO-Revision-Date: 2021-12-22 05:10+0000\n"
+"Last-Translator: Akmal <uzbadmin@gmail.com>\n"
+"Language: uz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 5dd70772-d05b-4c13-b597-a0871f73a532\n"
 
 msgctxt "title"
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Thunderbird uchun yordam qiling"
 
 msgctxt "seo_title"
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "Thunderbird uchun yordam qiling"
 
 msgctxt "search_description"
 msgid "I gave to @mozthunderbird today to #freetheinbox. Join me to support communication privacy."
