@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:53.432882+00:00\n"
-"PO-Revision-Date: 2021-12-22 05:10+0000\n"
+"PO-Revision-Date: 2021-12-22 05:24+0000\n"
 "Last-Translator: Akmal <uzbadmin@gmail.com>\n"
 "Language: uz\n"
 "MIME-Version: 1.0\n"
@@ -21,14 +21,16 @@ msgstr "Thunderbird uchun yordam qiling"
 
 msgctxt "search_description"
 msgid "I gave to @mozthunderbird today to #freetheinbox. Join me to support communication privacy."
-msgstr ""
+msgstr "Men bugun @mozthunderbird xizmatiga #freetheinbox boʻlishi uchun xayriya qilaman. Onlayn muloqotning maxfiy qolishini istasangiz, menga qoʻshiling."
 
 msgctxt "intro"
 msgid ""
 "We’re the leading open source cross-platform email and calendaring client, free for business and personal use. By contributing you’ll help ensure it stays that way and contribute towards future "
 "development. Will you give today?"
 msgstr ""
+"Biz biznes va shaxsiy maqsadda foydalanish uchun bepul yetakchi ochiq manbali kross-platformali elektron pochta va taqvim mijozini yaratdik. Sizning qoʻllab-quvvatlashingiz tufayli dastur kelajakda "
+"bepul boʻlib qoladi va siz uning yanada rivojlanishini qoʻllab-quvvatlaysiz. Bugun hissangizni qoʻshishga tayyormisiz?"
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
-msgstr ""
+msgstr "Siz qilgan xayriyalar xayriya badallari sifatida soliqqa tortilmaydi."
