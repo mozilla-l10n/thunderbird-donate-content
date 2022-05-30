@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:00.947111+00:00\n"
-"PO-Revision-Date: 2022-05-30 15:42+0000\n"
+"PO-Revision-Date: 2022-05-30 15:48+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language: hsb\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgstr "W kotrym poćahu Thunderbird z předewzaćom MZLA Technologies Corporati
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.36ffc3f6-b01b-4e17-a4a9-e67d780c48b7.content"
 msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
-msgstr ""
+msgstr "Thunderbird je projekt předewzaća MZLA Technologies Corporation, kotrež je stoprocentowa dźowkowa towaršnosć załožby Mozilla Foundation."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a6e1885f-f164-4eec-9595-cea9a545e7e6.title"
 msgid "What are the ways I can give?"
@@ -91,7 +91,7 @@ msgstr "Nima Thunderbird dochody?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.20921238-be13-4535-bae3-ed933869c362.content"
 msgid "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird."
-msgstr ""
+msgstr "Tuchwilu wjetšina dochadow Thunderbird ze šćedriwych darow wot wužiwarjow a přećelow Thunderbird pochadźa."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a4757741-e6bb-456a-8bd7-a15557e0c21b.title"
 msgid "Who gives to Thunderbird?"
