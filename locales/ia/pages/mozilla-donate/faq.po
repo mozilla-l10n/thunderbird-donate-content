@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:01.063866+00:00\n"
+"PO-Revision-Date: 2022-05-30 11:41+0000\n"
+"Last-Translator: Melo46 <melo@carmu.com>\n"
+"Language: ia\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: f43a9c94-8a62-4273-8bc0-d3b150ace3a2\n"
 
 msgctxt "title"
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Folio a questiones"
 
 msgctxt "seo_title"
 msgid "Thunderbird Giving FAQ"
@@ -67,7 +72,7 @@ msgstr ""
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.8dd4b22e-d86c-445b-948f-83ef4b2c4552.title"
 msgid "How will my gift be used?"
-msgstr ""
+msgstr "Como essera usate mi donation?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.8dd4b22e-d86c-445b-948f-83ef4b2c4552.content"
 msgid ""
