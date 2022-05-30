@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:00.947111+00:00\n"
-"PO-Revision-Date: 2022-05-30 15:48+0000\n"
+"PO-Revision-Date: 2022-05-30 16:25+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language: hsb\n"
 "MIME-Version: 1.0\n"
@@ -143,3 +143,5 @@ msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a id=\"a1\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical support, "
 "please head over to <a id=\"a2\">Thunderbird Support</a> for assistance."
 msgstr ""
+"Jeli prašenje wo darjenju za Thunderbird maće, stajće so z nami přez <a id=\"a1\">tutón formular</a> do zwiska. Budźemy swoje lěpše činić, zo bychmy was tak bórze kaž móžno kontaktowali. Jeli "
+"technisku podpěru trjebaće, wobroćće so prošu na <a id=\"a2\">pomoc Thunderbird</a>, zo byšće pomoc dóstał."
