@@ -12,5 +12,5 @@ locales = [ "ach", "ar", "ast", "az", "bn", "bs", "ca", "cs", "cy", "da", "de", 
 [[paths]]
 reference = "templates/pages/mozilla-donate/faq.pot"
 l10n = "locales/{locale}/pages/mozilla-donate/faq.po"
-locales = [ "de", "en-CA", "en-GB", "es", "fr", "fy-NL", "hu", "it", "nl", "pl", "pt-BR", "sv-SE", "uk", "zh-CN", "zh-TW",]
+locales = [ "cs", "da", "de", "dsb", "el", "en-CA", "en-GB", "es", "fr", "fy-NL", "hsb", "hu", "ia", "it", "ka", "nl", "pl", "pt-BR", "pt-PT", "ru", "sk", "sq", "sv-SE", "uk", "vi", "zh-CN", "zh-TW",]
 
