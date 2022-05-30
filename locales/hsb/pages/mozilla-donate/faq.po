@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:00.947111+00:00\n"
-"PO-Revision-Date: 2022-05-30 13:52+0000\n"
+"PO-Revision-Date: 2022-05-30 13:58+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language: hsb\n"
 "MIME-Version: 1.0\n"
@@ -41,7 +41,7 @@ msgstr "Kak móžu darić?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a6e1885f-f164-4eec-9595-cea9a545e7e6.content"
 msgid "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>."
-msgstr ""
+msgstr "<a id=\"a1\">Slědujće tutomu wotkazej, zo byšće hnydom wěste darjenje online přez kreditnu kartu abo PayPal činił</a>."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.c492e102-0610-459c-81fe-16c0a6e9e11f.title"
 msgid "Why do you need my address in order to process a gift?"
@@ -99,7 +99,7 @@ msgstr "Štó Thunderbird dari?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a4757741-e6bb-456a-8bd7-a15557e0c21b.content"
 msgid "Anyone can give, companies and individuals, to Thunderbird to support development of the product now and in the future."
-msgstr ""
+msgstr "Kóždy, předewzaća a jednotliwe wosoby, móže Thunderbird darić, zo bychu wuwiće produkta nětko a w přichodźe podpěrali."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.7e4bb215-32a3-4c9f-a9db-2a0ba19f0e8f.title"
 msgid "Does my gift give me access to tech support?"
