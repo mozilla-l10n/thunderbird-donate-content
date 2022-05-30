@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:00.276848+00:00\n"
-"PO-Revision-Date: 2022-05-30 14:12+0000\n"
+"PO-Revision-Date: 2022-05-30 14:16+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language: dsb\n"
 "MIME-Version: 1.0\n"
@@ -108,10 +108,12 @@ msgstr "Dostanu technisku pódpěru za móju pósćiwanku?"
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.7e4bb215-32a3-4c9f-a9db-2a0ba19f0e8f.content"
 msgid "Anyone can access tech support for Thunderbird by visiting the <a id=\"a1\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial gifts."
 msgstr ""
+"Kuždy móžo technisku pódpěru za Thunderbird dostaś, gaž woglědujo se do <a id=\"a1\">foruma pomocy</a>. Thunderbird technisku pódpěru abo rozšyrjonu technisku pódpěru ako zarownańske wugbaśe za "
+"financielne pósćiwanki njebitujo."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.ff95ca71-27c4-4ef6-b3d1-b1c4b55b19ea.title"
 msgid "Is my gift tax deductible?"
-msgstr ""
+msgstr "Dajo se mója pósćiwanka wót danka wótsajźiś?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.ff95ca71-27c4-4ef6-b3d1-b1c4b55b19ea.content"
 msgid ""
@@ -121,17 +123,20 @@ msgstr ""
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.65e3527b-81f5-4025-82d0-67e840e54a11.title"
 msgid "How do I cancel or change my recurring gift?"
-msgstr ""
+msgstr "Kak mógu ze swójim pšawidłownym pósćiwanim pśestaś abo pósćiwanje změniś?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.65e3527b-81f5-4025-82d0-67e840e54a11.content"
 msgid ""
 "If you used PayPal to set up a recurring gift, you’ll need to <a id=\"a1\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly gift using your credit card, please "
 "contact to the Donor Care team <a id=\"a2\">via this form</a>. Please include the email address and name you used to make your donation, and they’ll try to help you within two business days."
 msgstr ""
+"Jolic sćo PayPal za pšawidłowne pósćiwanki zarědował, musyśo se <a id=\"a1\">pla swójogo konta PayPal pśizjawiś</a>, aby změny pśewjadł abo pśetergnuł. Jolic sćo kuždy mjasec pśez swóju kreditowu "
+"kórtu pósćił, stajśo pšosym pśez <a id=\"a2\">toś ten formular</a> ze za pósćiwanki zagronitym teamom do zwiska. Pódajśo e-mailowu adresu a mě, kótarejž sćo wužył, aby pósćił a wopytaju wam w běgu "
+"dweju wobchodneju dnjowu pomagaś."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.05da60c3-3805-4891-ad8c-e7bfa5c2442d.title"
 msgid "Who can I email directly with questions about giving?"
-msgstr ""
+msgstr "Komu mógu pšašanja wó pósćiwanju páez mejlku słaś?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.05da60c3-3805-4891-ad8c-e7bfa5c2442d.content"
 msgid ""
