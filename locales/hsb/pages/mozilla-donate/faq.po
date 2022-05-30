@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:00.947111+00:00\n"
-"PO-Revision-Date: 2022-05-30 13:58+0000\n"
+"PO-Revision-Date: 2022-05-30 15:42+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language: hsb\n"
 "MIME-Version: 1.0\n"
@@ -29,7 +29,7 @@ msgstr "HSP wo darjenju za Thunderbird"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.36ffc3f6-b01b-4e17-a4a9-e67d780c48b7.title"
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
-msgstr ""
+msgstr "W kotrym poćahu Thunderbird z předewzaćom MZLA Technologies Corporation steji?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.36ffc3f6-b01b-4e17-a4a9-e67d780c48b7.content"
 msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
