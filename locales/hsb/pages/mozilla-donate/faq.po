@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:00.947111+00:00\n"
-"PO-Revision-Date: 2022-05-30 13:35+0000\n"
+"PO-Revision-Date: 2022-05-30 13:52+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language: hsb\n"
 "MIME-Version: 1.0\n"
@@ -130,6 +130,9 @@ msgid ""
 "If you used PayPal to set up a recurring gift, you’ll need to <a id=\"a1\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly gift using your credit card, please "
 "contact to the Donor Care team <a id=\"a2\">via this form</a>. Please include the email address and name you used to make your donation, and they’ll try to help you within two business days."
 msgstr ""
+"Jeli sće PayPal za prawidłowny dar zarjadował, dyrbiće so <a id=\"a1\">pola swojeho konta PayPal přizjewić</a>, zo byšće změny přewjedł abo přetorhnył. Jeli sće kóždy měsac přez swoju kreditnu kartu"
+" darił, stajće so prošu <a id=\"a2\">přez tutón formular</a> ze za dary zamołwitym teamom do zwiska. Podajće prošu e-mejlowu adresu a mjeno, kotrejž sće wužił, zo byšće darił a spytaja wam w běhu "
+"dweju wobchodneju dnjow pomhać."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.05da60c3-3805-4891-ad8c-e7bfa5c2442d.title"
 msgid "Who can I email directly with questions about giving?"
