@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:00.335437+00:00\n"
+"PO-Revision-Date: 2022-06-02 14:00+0000\n"
+"Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
+"Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 24661c3f-1b81-40e7-9c41-8139d6ad0a6c\n"
 
 msgctxt "title"
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Συχνές ερωτήσεις"
 
 msgctxt "seo_title"
 msgid "Thunderbird Giving FAQ"
