@@ -1,22 +1,27 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:02.632167+00:00\n"
+"PO-Revision-Date: 2022-06-04 02:51+0000\n"
+"Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
+"Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: a1ee7b51-101f-41f3-a833-f10ee112c606\n"
 
 msgctxt "title"
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Câu hỏi thường gặp"
 
 msgctxt "seo_title"
 msgid "Thunderbird Giving FAQ"
-msgstr ""
+msgstr "Câu hỏi thường gặp về quyên góp Thunderbird"
 
 msgctxt "search_description"
 msgid "Frequently asked questions about giving to Thunderbird"
-msgstr ""
+msgstr "Câu hỏi thường gặp về việc quyên góp cho Thunderbird"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.title"
 msgid "Thunderbird Gift FAQs"
