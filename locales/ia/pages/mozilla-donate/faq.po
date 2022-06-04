@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:01.063866+00:00\n"
-"PO-Revision-Date: 2022-05-30 11:41+0000\n"
+"PO-Revision-Date: 2022-06-04 03:08+0000\n"
 "Last-Translator: Melo46 <melo@carmu.com>\n"
 "Language: ia\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr "Folio a questiones"
 
 msgctxt "seo_title"
 msgid "Thunderbird Giving FAQ"
-msgstr ""
+msgstr "Folio a questiones re le donationes a Thunderbird"
 
 msgctxt "search_description"
 msgid "Frequently asked questions about giving to Thunderbird"
