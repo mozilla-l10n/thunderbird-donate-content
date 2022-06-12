@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:00.335437+00:00\n"
-"PO-Revision-Date: 2022-06-12 10:46+0000\n"
+"PO-Revision-Date: 2022-06-12 17:20+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
@@ -118,7 +118,7 @@ msgstr ""
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.65e3527b-81f5-4025-82d0-67e840e54a11.title"
 msgid "How do I cancel or change my recurring gift?"
-msgstr ""
+msgstr "Πώς ακυρώνω ή αλλάζω την επαναλαμβανόμενη δωρεά μου;"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.65e3527b-81f5-4025-82d0-67e840e54a11.content"
 msgid ""
