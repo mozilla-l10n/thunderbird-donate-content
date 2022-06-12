@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:00.335437+00:00\n"
-"PO-Revision-Date: 2022-06-02 14:00+0000\n"
+"PO-Revision-Date: 2022-06-12 10:46+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
@@ -37,7 +37,7 @@ msgstr ""
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a6e1885f-f164-4eec-9595-cea9a545e7e6.title"
 msgid "What are the ways I can give?"
-msgstr ""
+msgstr "Με ποιους τρόπους μπορώ να κάνω δωρεά;"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a6e1885f-f164-4eec-9595-cea9a545e7e6.content"
 msgid "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>."
@@ -56,23 +56,25 @@ msgstr ""
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.717167cb-85dd-42ac-81e6-bbd101ca491a.title"
 msgid "Can I give bitcoin?"
-msgstr ""
+msgstr "Μπορώ να κάνω δωρεά σε bitcoin;"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.717167cb-85dd-42ac-81e6-bbd101ca491a.content"
 msgid "We are not currently accepting bitcoin."
-msgstr ""
+msgstr "Προς το παρόν, δεν δεχόμαστε bitcoin."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.e7ad7f16-3b98-4c67-aada-2eee7ac39acb.title"
 msgid "How can I turn off the appeal on the Thunderbird start page?"
-msgstr ""
+msgstr "Πώς μπορώ να απενεργοποιήσω την έκκληση για δωρεά στην αρχική σελίδα του Thunderbird;"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.e7ad7f16-3b98-4c67-aada-2eee7ac39acb.content"
 msgid "The start page appeal to donate can’t currently be turned off. If you like, you can change the start page to something else. To do this, in Thunderbird go to Options | General"
 msgstr ""
+"Η παράκληση για δωρεά στην αρχική σελίδα δεν μπορεί να απενεργοποιηθεί προς το παρόν. Αν θέλετε, μπορείτε να αλλάξετε την αρχική σελίδα σε κάτι άλλο. Για να το κάνετε αυτό, στο Thunderbird, "
+"μεταβείτε στις Επιλογές | Γενικά"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.8dd4b22e-d86c-445b-948f-83ef4b2c4552.title"
 msgid "How will my gift be used?"
-msgstr ""
+msgstr "Πώς θα χρησιμοποιηθεί η δωρεά μου;"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.8dd4b22e-d86c-445b-948f-83ef4b2c4552.content"
 msgid ""
