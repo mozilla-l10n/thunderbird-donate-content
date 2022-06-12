@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:02.184185+00:00\n"
-"PO-Revision-Date: 2022-06-12 17:10+0000\n"
+"PO-Revision-Date: 2022-06-12 17:12+0000\n"
 "Last-Translator: wladow <valastiak@mozilla.sk>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
@@ -56,29 +56,31 @@ msgstr ""
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.717167cb-85dd-42ac-81e6-bbd101ca491a.title"
 msgid "Can I give bitcoin?"
-msgstr ""
+msgstr "Môžem prispieť v bitcoinoch?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.717167cb-85dd-42ac-81e6-bbd101ca491a.content"
 msgid "We are not currently accepting bitcoin."
-msgstr ""
+msgstr "V súčasnosti bitcoin neprijímame."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.e7ad7f16-3b98-4c67-aada-2eee7ac39acb.title"
 msgid "How can I turn off the appeal on the Thunderbird start page?"
-msgstr ""
+msgstr "Ako vypnem žiadosti o príspevok na úvodnej stránke Thunderbirdu?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.e7ad7f16-3b98-4c67-aada-2eee7ac39acb.content"
 msgid "The start page appeal to donate can’t currently be turned off. If you like, you can change the start page to something else. To do this, in Thunderbird go to Options | General"
-msgstr ""
+msgstr "Výzvu na darovanie na úvodnej stránke momentálne nemožno vypnúť. Ak chcete, môžete zmeniť úvodnú stránku na inú. Ak to chcete urobiť, v Thunderbirde prejdite na Možnosti | Všeobecné"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.8dd4b22e-d86c-445b-948f-83ef4b2c4552.title"
 msgid "How will my gift be used?"
-msgstr ""
+msgstr "Ako bude môj dar použitý?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.8dd4b22e-d86c-445b-948f-83ef4b2c4552.content"
 msgid ""
 "Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
 "development."
 msgstr ""
+"Thunderbird je popredným open source multiplatformovým e-mailovým a kalendárovým klientom, ktorý je zadarmo na komerčné aj osobné použitie. Váš dar pomôže zabezpečiť, aby to tak zostalo, a podporí "
+"budúci rozvoj."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.20921238-be13-4535-bae3-ed933869c362.title"
 msgid "Doesn’t Thunderbird earn income?"
