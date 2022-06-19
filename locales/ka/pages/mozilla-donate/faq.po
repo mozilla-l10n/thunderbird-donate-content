@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:01.236328+00:00\n"
-"PO-Revision-Date: 2022-06-19 13:10+0000\n"
+"PO-Revision-Date: 2022-06-19 13:31+0000\n"
 "Last-Translator: G12r <georgianization@outlook.com>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
@@ -17,15 +17,15 @@ msgstr "ხშირად დასმული კითხვები"
 
 msgctxt "seo_title"
 msgid "Thunderbird Giving FAQ"
-msgstr ""
+msgstr "Thunderbird-ის შემოწირულობის ᲮᲓᲙ"
 
 msgctxt "search_description"
 msgid "Frequently asked questions about giving to Thunderbird"
-msgstr ""
+msgstr "ხშირად დასმული კითხვები Thunderbird-ისთვის შემოწირულობის შესახებ"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.title"
 msgid "Thunderbird Gift FAQs"
-msgstr ""
+msgstr "Thunderbird-ის საჩუქრის ᲮᲓᲙ"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.36ffc3f6-b01b-4e17-a4a9-e67d780c48b7.title"
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
@@ -126,10 +126,12 @@ msgstr ""
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.05da60c3-3805-4891-ad8c-e7bfa5c2442d.title"
 msgid "Who can I email directly with questions about giving?"
-msgstr ""
+msgstr "ვის შეიძლება მივმართო შემოწირულობის შესახებ შეკითხვებით?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.05da60c3-3805-4891-ad8c-e7bfa5c2442d.content"
 msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a id=\"a1\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical support, "
 "please head over to <a id=\"a2\">Thunderbird Support</a> for assistance."
 msgstr ""
+"თუ გაქვთ კითხვა Thunderbird-ის შემოწირულობის შესახებ, გთხოვთ შეავსოთ <a id=\"a1\">ეს კითხვარი</a>. შევეცდებით, უმოკლეს დროში გაგცეთ პასუხი. თუ ტექნიკური დახმარება გესაჭიროებათ, ეწვიეთ <a "
+"id=\"a2\">Thunderbird-ის მხარდაჭერის</a> გვერდს."
