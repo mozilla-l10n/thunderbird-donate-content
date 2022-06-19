@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:01.236328+00:00\n"
-"PO-Revision-Date: 2022-06-19 13:31+0000\n"
+"PO-Revision-Date: 2022-06-19 13:37+0000\n"
 "Last-Translator: G12r <georgianization@outlook.com>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
@@ -29,23 +29,23 @@ msgstr "Thunderbird-ის საჩუქრის ᲮᲓᲙ"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.36ffc3f6-b01b-4e17-a4a9-e67d780c48b7.title"
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
-msgstr ""
+msgstr "რითაა ერთმანეთთან დაკავშირებული Thunderbird და MZLA Technologies Corporation?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.36ffc3f6-b01b-4e17-a4a9-e67d780c48b7.content"
 msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
-msgstr ""
+msgstr "Thunderbird-ის პროექტის შემქმნელია MZLA Technologies Corporation, რომელიც თავისმხრივ შვილობილია კომპანიისა Mozilla Foundation."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a6e1885f-f164-4eec-9595-cea9a545e7e6.title"
 msgid "What are the ways I can give?"
-msgstr ""
+msgstr "რა გზებით შემიძლია შემოწირულობის გაღება?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a6e1885f-f164-4eec-9595-cea9a545e7e6.content"
 msgid "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>."
-msgstr ""
+msgstr "<a id=\"a1\">ეწვიეთ მოცემულ ბმულს, შემოწირულობის უსაფრთხოდ გასაკეთებლად საკრედიტო ბარათით ან PayPal-ით ინტერნეტიდან</a>."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.c492e102-0610-459c-81fe-16c0a6e9e11f.title"
 msgid "Why do you need my address in order to process a gift?"
-msgstr ""
+msgstr "რატომ არის საჭირო ჩემი მისამართი გადარიცხვის შესასრულებლად?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.c492e102-0610-459c-81fe-16c0a6e9e11f.content"
 msgid ""
