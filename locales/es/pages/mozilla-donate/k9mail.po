@@ -1,0 +1,25 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-06-20 14:04:55.251028+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 80d735a7-7d43-44df-a51b-c53b4c3bbe0c\n"
+
+msgctxt "title"
+msgid "K-9 Mail"
+msgstr ""
+
+msgctxt "lead_text"
+msgid "Open Source Email for Android"
+msgstr ""
+
+msgctxt "intro"
+msgid ""
+"K-9 Mail is the leading open source email app on Android. K-9 is now part of the Mozilla Thunderbird family of projects focused on open standards, powerful features and user privacy. K-9 is free to "
+"all users. By contributing you’ll help ensure it stays that way and support future development.<b> Will you give today?</b>"
+msgstr ""
+
+msgctxt "intro"
+msgid "Contributions are not tax-deductible as charitable contributions."
+msgstr ""
