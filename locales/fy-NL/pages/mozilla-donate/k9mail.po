@@ -1,18 +1,23 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-06-21 11:46:14.580574+00:00\n"
+"PO-Revision-Date: 2022-06-21 15:02+0000\n"
+"Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
+"Language: fy_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 25862f93-2f9a-497e-8179-c4057e929738\n"
 
 msgctxt "title"
 msgid "K-9 Mail"
-msgstr ""
+msgstr "K-9 Mail"
 
 msgctxt "lead_text"
 msgid "Open Source Email for Android"
-msgstr ""
+msgstr "Iepen boarne e-mail foar Android"
 
 msgctxt "intro"
 msgid ""
@@ -22,4 +27,4 @@ msgstr ""
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
-msgstr ""
+msgstr "Bydragen binne net fiskaal ôflûkber as bydragen oan goed doelen."
