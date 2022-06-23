@@ -1,18 +1,23 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-06-21 11:46:16.259538+00:00\n"
+"PO-Revision-Date: 2022-06-23 00:22+0000\n"
+"Last-Translator: Andreas Pettersson <az@kth.se>\n"
+"Language: sv_SE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 6bc0766a-ae4e-470d-baa1-4c87132f3c48\n"
 
 msgctxt "title"
 msgid "K-9 Mail"
-msgstr ""
+msgstr "K-9 Mail"
 
 msgctxt "lead_text"
 msgid "Open Source Email for Android"
-msgstr ""
+msgstr "E-post med öppen källkod för Android"
 
 msgctxt "intro"
 msgid ""
