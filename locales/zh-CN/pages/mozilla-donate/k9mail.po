@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-06-21 11:46:16.647898+00:00\n"
-"PO-Revision-Date: 2022-06-21 16:51+0000\n"
+"PO-Revision-Date: 2022-06-25 08:15+0000\n"
 "Last-Translator: 你我皆凡人 <yuanbingyan@mail.ee>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,7 @@ msgctxt "intro"
 msgid ""
 "K-9 Mail is the leading open source email app on Android. K-9 is now part of the Mozilla Thunderbird family of projects focused on open standards, powerful features and user privacy. K-9 is free to "
 "all users. By contributing you’ll help ensure it stays that way and support future development. <b>Will you give today?</b>"
-msgstr ""
+msgstr "K-9 Mail 是 Android 上领先的开源电子邮件应用程序，现已成为 Mozilla Thunderbird 项目的一员，专注于开放标准、强大功能和用户隐私。K-9 免费供所有用户免费使用，您可以为它捐款，以保证它在未来的持续发展。<b>今天要捐款吗？</b>"
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
