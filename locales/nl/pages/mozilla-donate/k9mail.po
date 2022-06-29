@@ -1,25 +1,32 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-06-21 11:46:15.613543+00:00\n"
+"PO-Revision-Date: 2022-06-29 05:56+0000\n"
+"Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 374a6677-64a3-425c-b00d-23e6fcb0a492\n"
 
 msgctxt "title"
 msgid "K-9 Mail"
-msgstr ""
+msgstr "K-9 Mail"
 
 msgctxt "lead_text"
 msgid "Open Source Email for Android"
-msgstr ""
+msgstr "Opensource-e-mail voor Android"
 
 msgctxt "intro"
 msgid ""
 "K-9 Mail is the leading open source email app on Android. K-9 is now part of the Mozilla Thunderbird family of projects focused on open standards, powerful features and user privacy. K-9 is free to "
 "all users. By contributing you’ll help ensure it stays that way and support future development. <b>Will you give today?</b>"
 msgstr ""
+"K-9 Mail is de toonaangevende opensource-e-mailapp op Android. K-9 maakt nu deel uit van de Mozilla Thunderbird-familie van projecten die zijn gericht op open standaarden, krachtige functies en "
+"gebruikersprivacy. K-9 is gratis voor alle gebruikers. Door bij te dragen helpt u ervoor te zorgen dat dit zo blijft en ondersteunt u toekomstige ontwikkeling. <b>Doneert u vandaag?</b>"
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
-msgstr ""
+msgstr "Donaties zijn niet fiscaal aftrekbaar als donaties aan goede doelen."
