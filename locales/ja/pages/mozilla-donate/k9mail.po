@@ -1,18 +1,23 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-06-20 14:04:55.981290+00:00\n"
+"PO-Revision-Date: 2022-06-30 21:48+0000\n"
+"Last-Translator: marsf <chimantaea_mirabilis@yahoo.co.jp>\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 5b2a42ff-1743-4062-9c1b-12a399e8709c\n"
 
 msgctxt "title"
 msgid "K-9 Mail"
-msgstr ""
+msgstr "K-9 Mail"
 
 msgctxt "lead_text"
 msgid "Open Source Email for Android"
-msgstr ""
+msgstr "Android 向けオープンソースのメールアプリ"
 
 msgctxt "intro"
 msgid ""
@@ -22,4 +27,4 @@ msgstr ""
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
-msgstr ""
+msgstr "この寄付は慈善寄付の税控除の対象にはなりません。"
