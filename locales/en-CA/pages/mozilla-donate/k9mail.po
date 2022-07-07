@@ -1,18 +1,23 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-06-20 14:04:55.117365+00:00\n"
+"PO-Revision-Date: 2022-06-30 21:07+0000\n"
+"Last-Translator: Bund10z <abu.avila@gmail.com>\n"
+"Language: en_CA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 365b5b5f-32c2-46e6-ab41-3c917618a1a7\n"
 
 msgctxt "title"
 msgid "K-9 Mail"
-msgstr ""
+msgstr "K-9 Mail"
 
 msgctxt "lead_text"
 msgid "Open Source Email for Android"
-msgstr ""
+msgstr "Open Source Email for Android"
 
 msgctxt "intro"
 msgid ""
