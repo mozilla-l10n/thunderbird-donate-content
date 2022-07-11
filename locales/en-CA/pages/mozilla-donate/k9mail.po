@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-06-20 14:04:55.117365+00:00\n"
-"PO-Revision-Date: 2022-06-30 21:07+0000\n"
-"Last-Translator: Bund10z <abu.avila@gmail.com>\n"
+"PO-Revision-Date: 2022-07-11 22:19+0000\n"
+"Last-Translator: pdehaan <pdehaan@mozilla.com>\n"
 "Language: en_CA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -24,7 +24,9 @@ msgid ""
 "K-9 Mail is the leading open source email app on Android. K-9 is now part of the Mozilla Thunderbird family of projects focused on open standards, powerful features and user privacy. K-9 is free to "
 "all users. By contributing you’ll help ensure it stays that way and support future development. <b>Will you give today?</b>"
 msgstr ""
+"K-9 Mail is the leading open source email app on Android. K-9 is now part of the Mozilla Thunderbird family of projects focused on open standards, powerful features and user privacy. K-9 is free to "
+"all users. By contributing you’ll help ensure it stays that way and support future development. <b>Will you give today?</b>"
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
-msgstr ""
+msgstr "Contributions are not tax-deductible as charitable contributions."
