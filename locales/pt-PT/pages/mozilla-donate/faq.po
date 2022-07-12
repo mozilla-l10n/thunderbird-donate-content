@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:01.964360+00:00\n"
+"PO-Revision-Date: 2022-07-11 22:24+0000\n"
+"Last-Translator: tiago <tiago@carrondo.pt>\n"
+"Language: pt_PT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 82da1335-bcd8-4481-9b2d-873858682c54\n"
 
 msgctxt "title"
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Perguntas Frequentes"
 
 msgctxt "seo_title"
 msgid "Thunderbird Giving FAQ"
