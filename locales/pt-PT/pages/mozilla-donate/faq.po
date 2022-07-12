@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:01.964360+00:00\n"
-"PO-Revision-Date: 2022-07-11 22:24+0000\n"
-"Last-Translator: tiago <tiago@carrondo.pt>\n"
+"PO-Revision-Date: 2022-07-12 12:13+0000\n"
+"Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
 "Language: pt_PT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -17,7 +17,7 @@ msgstr "Perguntas Frequentes"
 
 msgctxt "seo_title"
 msgid "Thunderbird Giving FAQ"
-msgstr ""
+msgstr "Perguntas frequentes sobre donativos para o Thunderbird"
 
 msgctxt "search_description"
 msgid "Frequently asked questions about giving to Thunderbird"
@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.36ffc3f6-b01b-4e17-a4a9-e67d780c48b7.title"
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
-msgstr ""
+msgstr "Qual a relação do Thunderbird com a MZLA Technologies Corporation?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.36ffc3f6-b01b-4e17-a4a9-e67d780c48b7.content"
 msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
@@ -64,11 +64,12 @@ msgstr ""
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.e7ad7f16-3b98-4c67-aada-2eee7ac39acb.title"
 msgid "How can I turn off the appeal on the Thunderbird start page?"
-msgstr ""
+msgstr "Como posso desativar o pedido de donativos da página inicial do Thunderbird?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.e7ad7f16-3b98-4c67-aada-2eee7ac39acb.content"
 msgid "The start page appeal to donate can’t currently be turned off. If you like, you can change the start page to something else. To do this, in Thunderbird go to Options | General"
 msgstr ""
+"O pedido de donativos da página inicial não pode ser desativado neste momento. Se quiser, pode alterar a página inicial para outra coisa. Para fazer isto, no Thunderbird aceda a Opções | Geral"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.8dd4b22e-d86c-445b-948f-83ef4b2c4552.title"
 msgid "How will my gift be used?"
