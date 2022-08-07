@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:00.058821+00:00\n"
-"PO-Revision-Date: 2022-08-07 20:35+0000\n"
+"PO-Revision-Date: 2022-08-07 20:53+0000\n"
 "Last-Translator: Jirka Soukeník <soucet@centrum.cz>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr "Často kladené otázky"
 
 msgctxt "seo_title"
 msgid "Thunderbird Giving FAQ"
-msgstr ""
+msgstr "Nejčastější dotazy ohledně poslání daru Thunderbirdu"
 
 msgctxt "search_description"
 msgid "Frequently asked questions about giving to Thunderbird"
@@ -141,3 +141,5 @@ msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a id=\"a1\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical support, "
 "please head over to <a id=\"a2\">Thunderbird Support</a> for assistance."
 msgstr ""
+"Chcete-li se na něco zeptat ohledně poslání daru Thunderbirdu, kontaktujte nás prosím prostřednictvím <a id=\"a1\">tohoto formuláře</a>. Budeme se snažit vás co nejdříve kontaktovat. Pokud "
+"potřebujete technickou podporu, přejděte prosím na <a id=\"a2\">stránky podpory Thunderbirdu</a>, kde vám pomůžeme."
