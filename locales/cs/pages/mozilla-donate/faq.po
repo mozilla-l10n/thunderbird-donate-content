@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:00.058821+00:00\n"
-"PO-Revision-Date: 2022-08-07 18:50+0000\n"
+"PO-Revision-Date: 2022-08-07 19:49+0000\n"
 "Last-Translator: Jirka Soukeník <soucet@centrum.cz>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -105,11 +105,11 @@ msgstr "Budu mít díky svému daru přístup k technické podpoře?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.7e4bb215-32a3-4c9f-a9db-2a0ba19f0e8f.content"
 msgid "Anyone can access tech support for Thunderbird by visiting the <a id=\"a1\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial gifts."
-msgstr ""
+msgstr "K technické podpoře Thunderbirdu má přístup každý na našem <a id=\"a1\">fóru podpory</a>. Další či rozšířenou technickou podporu výměnou za finanční dar nenabízíme."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.ff95ca71-27c4-4ef6-b3d1-b1c4b55b19ea.title"
 msgid "Is my gift tax deductible?"
-msgstr ""
+msgstr "Lze můj dar odečíst z daní?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.ff95ca71-27c4-4ef6-b3d1-b1c4b55b19ea.content"
 msgid ""
