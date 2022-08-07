@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:00.058821+00:00\n"
-"PO-Revision-Date: 2022-08-07 17:39+0000\n"
+"PO-Revision-Date: 2022-08-07 17:45+0000\n"
 "Last-Translator: Jirka Soukeník <soucet@centrum.cz>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -45,7 +45,7 @@ msgstr "<a id=\"a1\">Pro bezpečné poslání daru online platbou pomocí plateb
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.c492e102-0610-459c-81fe-16c0a6e9e11f.title"
 msgid "Why do you need my address in order to process a gift?"
-msgstr "Proč potřebujete mou adresu pro zpracování daru?"
+msgstr "Proč potřebujete mou adresu, abyste dar mohli zpracovat?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.c492e102-0610-459c-81fe-16c0a6e9e11f.content"
 msgid ""
