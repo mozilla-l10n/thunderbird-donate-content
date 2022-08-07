@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-06-21 11:46:13.762996+00:00\n"
-"PO-Revision-Date: 2022-08-07 17:16+0000\n"
+"PO-Revision-Date: 2022-08-07 20:10+0000\n"
 "Last-Translator: Jirka Soukeník <soucet@centrum.cz>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +25,8 @@ msgid ""
 "all users. By contributing you’ll help ensure it stays that way and support future development. <b>Will you give today?</b>"
 msgstr ""
 "K-9 Mail je přední e-mailová aplikace s otevřeným zdrojovým kódem pro systém Android. Nyní je aplikace K-9 součástí rodiny projektů Mozilla Thunderbird, která se zaměřuje na otevřené standardy, "
-"výkonné funkce a soukromí uživatelů. Aplikace K-9 je pro všechny uživatele zdarma. Svým příspěvkem pomůžete zajistit, aby to tak zůstalo, a podpoříte budoucí vývoj. <b>Přispějete ještě dnes?</b>"
+"výkonné funkce a soukromí uživatelů. Aplikace K-9 je pro všechny uživatele zdarma. Svým příspěvkem pomůžete zajistit, aby to tak bylo i nadále, a podpoříte budoucí vývoj. <b>Přispějete ještě "
+"dnes?</b>"
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."

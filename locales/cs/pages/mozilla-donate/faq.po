@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:00.058821+00:00\n"
-"PO-Revision-Date: 2022-08-07 19:49+0000\n"
+"PO-Revision-Date: 2022-08-07 20:16+0000\n"
 "Last-Translator: Jirka Soukeník <soucet@centrum.cz>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -116,10 +116,12 @@ msgid ""
 "Gifts to Thunderbird are not tax-deductible, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-platform email and calendaring client, free "
 "for business and personal use. Your gift will help ensure it stays that way, and will support future development."
 msgstr ""
+"Dary pro Thunderbird nelze odečíst z daní, ale velice si jich vážíme. Posláním daru Thunderbirdu podporujete vývoj našeho předního otevřeného multiplatformního e-mailového a kalendářového klienta, "
+"který je zdarma pro firemní i osobní použití. Váš dar pomůže zajistit, aby to tak bylo i nadále, a podpoří budoucí vývoj."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.65e3527b-81f5-4025-82d0-67e840e54a11.title"
 msgid "How do I cancel or change my recurring gift?"
-msgstr ""
+msgstr "Jak mohu zrušit opakované zasílání daru?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.65e3527b-81f5-4025-82d0-67e840e54a11.content"
 msgid ""
