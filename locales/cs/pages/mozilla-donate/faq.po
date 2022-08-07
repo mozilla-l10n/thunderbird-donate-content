@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:00.058821+00:00\n"
-"PO-Revision-Date: 2022-08-07 20:16+0000\n"
+"PO-Revision-Date: 2022-08-07 20:25+0000\n"
 "Last-Translator: Jirka Soukeník <soucet@centrum.cz>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -128,6 +128,9 @@ msgid ""
 "If you used PayPal to set up a recurring gift, you’ll need to <a id=\"a1\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly gift using your credit card, please "
 "contact to the Donor Care team <a id=\"a2\">via this form</a>. Please include the email address and name you used to make your donation, and they’ll try to help you within two business days."
 msgstr ""
+"Pokud jste pro opakované zasílání daru použili PayPal, <a id=\"a1\">přihlaste se ke svému účtu PayPal</a> a následně proveďte požadované změny nebo pravidelnou platbu zrušte. Pokud máte nastaveno "
+"měsíční strhávání daru z vaší platební karty, kontaktujte prosím tým péče o dárce skrze <a id=\"a2\">tento formulář</a>. Ve zprávě prosím uveďte vaši e-mailovou adresu a jméno, které jste použili "
+"pro zasílání darů a do dvou pracovních dnů se vám pokusí pomoci."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.05da60c3-3805-4891-ad8c-e7bfa5c2442d.title"
 msgid "Who can I email directly with questions about giving?"
