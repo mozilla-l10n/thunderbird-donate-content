@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:00.058821+00:00\n"
-"PO-Revision-Date: 2022-08-07 18:09+0000\n"
+"PO-Revision-Date: 2022-08-07 18:15+0000\n"
 "Last-Translator: Jirka Soukeník <soucet@centrum.cz>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -93,7 +93,7 @@ msgstr "V současné době pochází většina příjmů Thunderbirdu z velkorys
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a4757741-e6bb-456a-8bd7-a15557e0c21b.title"
 msgid "Who gives to Thunderbird?"
-msgstr ""
+msgstr "Kdo všechno Thunderbirdu posílá dary?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a4757741-e6bb-456a-8bd7-a15557e0c21b.content"
 msgid "Anyone can give, companies and individuals, to Thunderbird to support development of the product now and in the future."
