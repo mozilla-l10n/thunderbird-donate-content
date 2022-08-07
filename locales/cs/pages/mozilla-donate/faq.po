@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:00.058821+00:00\n"
-"PO-Revision-Date: 2022-08-07 17:45+0000\n"
+"PO-Revision-Date: 2022-08-07 18:09+0000\n"
 "Last-Translator: Jirka Soukeník <soucet@centrum.cz>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -53,6 +53,9 @@ msgid ""
 " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a id=\"a1\">Privacy"
 " Policy</a>. If you would rather not fill in your information on our online form, you can mail us a check."
 msgstr ""
+"Chápeme, že je vaše soukromí velmi důležité. Žádáme o minimální množství informací potřebných ke zpracování plateb kreditní kartou, včetně fakturační adresy. To umožňuje našemu zpracovateli plateb "
+"ověřit vaši totožnost, zpracovat vaši platbu a zabránit neoprávněným platbám z vaší kreditní karty. Vaše údaje uchováváme v tajnosti – máte-li nějaké dotazy, přečtěte si prosím naše <a "
+"id=\"a1\">zásady ochrany osobních údajů</a>. Jestliže si nepřejete své údaje do našeho online formuláře vyplňovat, můžete nám poštou poslat šek."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.717167cb-85dd-42ac-81e6-bbd101ca491a.title"
 msgid "Can I give bitcoin?"
@@ -86,7 +89,7 @@ msgstr "Nevydělá si Thunderbird sám na sebe?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.20921238-be13-4535-bae3-ed933869c362.content"
 msgid "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird."
-msgstr ""
+msgstr "V současné době pochází většina příjmů Thunderbirdu z velkorysých darů od uživatelů a přátel Thunderbirdu."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a4757741-e6bb-456a-8bd7-a15557e0c21b.title"
 msgid "Who gives to Thunderbird?"
