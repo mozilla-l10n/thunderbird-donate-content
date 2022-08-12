@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:00.335437+00:00\n"
-"PO-Revision-Date: 2022-08-12 16:52+0000\n"
+"PO-Revision-Date: 2022-08-12 16:58+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
@@ -41,11 +41,11 @@ msgstr "Με ποιους τρόπους μπορώ να κάνω δωρεά;"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a6e1885f-f164-4eec-9595-cea9a545e7e6.content"
 msgid "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>."
-msgstr ""
+msgstr "<a id=\"a1\">Επισκεφθείτε αυτόν τον σύνδεσμο για να κάνετε άμεσα μια ασφαλή, διαδικτυακή δωρεά μέσω πιστωτικής κάρτας ή PayPal</a>."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.c492e102-0610-459c-81fe-16c0a6e9e11f.title"
 msgid "Why do you need my address in order to process a gift?"
-msgstr ""
+msgstr "Γιατί χρειάζεστε τη διεύθυνσή μου, προκειμένου να επεξεργαστείτε τη δωρεά;"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.c492e102-0610-459c-81fe-16c0a6e9e11f.content"
 msgid ""
@@ -81,6 +81,8 @@ msgid ""
 "Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
 "development."
 msgstr ""
+"Το Thunderbird αποτελεί την κορυφαία, ανοικτού κώδικα, εφαρμογή email και ημερολογίου για πολλαπλές πλατφόρμες, ενώ διατίθεται δωρεάν για εταιρική και προσωπική χρήση. Η δωρεά σας θα βοηθήσει ώστε "
+"να μείνουν όλα όπως είναι και θα συνεισφέρει στη μελλοντική ανάπτυξη."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.20921238-be13-4535-bae3-ed933869c362.title"
 msgid "Doesn’t Thunderbird earn income?"
@@ -88,7 +90,7 @@ msgstr "Δεν λαμβάνει έσοδα το Thunderbird;"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.20921238-be13-4535-bae3-ed933869c362.content"
 msgid "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird."
-msgstr ""
+msgstr "Επί του παρόντος, το μεγαλύτερο μέρος των εσόδων του Thunderbird προέρχεται από τις γενναιόδωρες δωρεές των χρηστών και των υποστηρικτών του."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a4757741-e6bb-456a-8bd7-a15557e0c21b.title"
 msgid "Who gives to Thunderbird?"
@@ -100,7 +102,7 @@ msgstr ""
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.7e4bb215-32a3-4c9f-a9db-2a0ba19f0e8f.title"
 msgid "Does my gift give me access to tech support?"
-msgstr ""
+msgstr "Εξασφαλίζει η δωρεά μου πρόσβαση σε τεχνική υποστήριξη;"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.7e4bb215-32a3-4c9f-a9db-2a0ba19f0e8f.content"
 msgid "Anyone can access tech support for Thunderbird by visiting the <a id=\"a1\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial gifts."
