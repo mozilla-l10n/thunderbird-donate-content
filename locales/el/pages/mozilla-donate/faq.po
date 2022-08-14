@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:00.335437+00:00\n"
-"PO-Revision-Date: 2022-08-12 16:58+0000\n"
+"PO-Revision-Date: 2022-08-14 12:20+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
@@ -98,7 +98,7 @@ msgstr "Ποιος δωρίζει στο Thunderbird;"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a4757741-e6bb-456a-8bd7-a15557e0c21b.content"
 msgid "Anyone can give, companies and individuals, to Thunderbird to support development of the product now and in the future."
-msgstr ""
+msgstr "Όλοι, ιδιώτες και επιχειρήσεις, μπορούν να δωρίσουν στο Thunderbird για την υποστήριξη της ανάπτυξης του προϊόντος, τώρα και στο μέλλον."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.7e4bb215-32a3-4c9f-a9db-2a0ba19f0e8f.title"
 msgid "Does my gift give me access to tech support?"
