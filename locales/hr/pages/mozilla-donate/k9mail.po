@@ -1,25 +1,32 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-06-21 11:46:14.740956+00:00\n"
+"PO-Revision-Date: 2022-08-23 09:22+0000\n"
+"Last-Translator: Mikeyy <mihovil@miho.im>\n"
+"Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 41d7be81-8085-480e-9c7f-18feb1c14fb4\n"
 
 msgctxt "title"
 msgid "K-9 Mail"
-msgstr ""
+msgstr "K-9 Mail"
 
 msgctxt "lead_text"
 msgid "Open Source Email for Android"
-msgstr ""
+msgstr "E-pošta otvorenog koda za Android"
 
 msgctxt "intro"
 msgid ""
 "K-9 Mail is the leading open source email app on Android. K-9 is now part of the Mozilla Thunderbird family of projects focused on open standards, powerful features and user privacy. K-9 is free to "
 "all users. By contributing you’ll help ensure it stays that way and support future development. <b>Will you give today?</b>"
 msgstr ""
+"K-9 Mail je vodeća aplikacija otvorenog koda za e-poštu na Androidu. K-9 je sada dio Mozilla Thunderbird obitelji projekata fokusiranih na otvorene standarde, moćne mogućnosti i privatnost "
+"korisnika. K-9 je besplatan za sve korisnike. Doniranjem pomažete da takav ostane i u budućnosti i podržavate budući razvoj. <b>Hoćete li donirati danas?</b>"
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
-msgstr ""
+msgstr "Doprinosi se ne mogu odbiti od poreza kao dobrotvorni prilozi."
