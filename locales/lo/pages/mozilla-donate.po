@@ -1,29 +1,36 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:22:52.529193+00:00\n"
+"PO-Revision-Date: 2022-09-06 12:50+0000\n"
+"Last-Translator: Saleumsack KEOBOUALAY <saleumsack16@gmail.com>\n"
+"Language: lo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 74d32385-4eba-41ca-ab84-6c8df0e2fb7d\n"
 
 msgctxt "title"
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "ບໍລິຈາກໃຫ້ Thunderbird"
 
 msgctxt "seo_title"
 msgid "Give to Thunderbird"
-msgstr ""
+msgstr "ມອບໃຫ້ Thunderbird"
 
 msgctxt "search_description"
 msgid "I gave to @mozthunderbird today to #freetheinbox. Join me to support communication privacy."
-msgstr ""
+msgstr "ມື້ນີ້ຂ້ອຍໄດ້ມອບໃຫ້ @mozthunderbird ເພື່ອ #freetheinbox. ເຂົ້າຮ່ວມກັບຂ້ອຍເພື່ອສະຫນັບສະຫນູນການສື່ສານທີມີຄວາມເປັນສ່ວນຕົວ."
 
 msgctxt "intro"
 msgid ""
 "We’re the leading open source cross-platform email and calendaring client, free for business and personal use. By contributing you’ll help ensure it stays that way and contribute towards future "
 "development. Will you give today?"
 msgstr ""
+"ພວກ​ເຮົາ​ແມ່ນ​ຜູ້​ນຳ​ໃຊ້​ອີ​ເມວ​ open source  ແລະ ​ມີລູກຄ້າເຮັດປະ​ຕິ​ທິນ​, ບໍ່​ເສຍ​ຄ່າ​ສຳ​ລັບ​ທຸ​ລະ​ກິດ ແລະ​ການ​ນຳ​ໃຊ້​ສ່ວນ​ຕົວ. ໂດຍການປະກອບສ່ວນ, ທ່ານຈະຊ່ວຍຮັບປະກັນວ່າມັນຄົງຢູ່ແບບນັ້ນ "
+"ແລະປະກອບສ່ວນເຂົ້າໃນການພັດທະນາໃນອະນາຄົດ. ເຈົ້າຈະໃຫ້ມື້ນີ້ບໍ?"
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
-msgstr ""
+msgstr "ການປະກອບສ່ວນບໍ່ສາມາດນຳໄປຫັກພາສີເປັນການປະກອບສ່ວນການກຸສົນໄດ້."
