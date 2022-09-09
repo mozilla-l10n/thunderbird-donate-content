@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-06-21 11:46:14.580574+00:00\n"
-"PO-Revision-Date: 2022-06-30 12:35+0000\n"
+"PO-Revision-Date: 2022-09-09 07:47+0000\n"
 "Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
 "Language: fy_NL\n"
 "MIME-Version: 1.0\n"
@@ -29,4 +29,4 @@ msgstr ""
 
 msgctxt "intro"
 msgid "Contributions are not tax-deductible as charitable contributions."
-msgstr "Bydragen binne net fiskaal ôflûkber as bydragen oan goed doelen."
+msgstr "Bydragen binne net fiskaal ôflûkber as bydragen oan goede doelen."
