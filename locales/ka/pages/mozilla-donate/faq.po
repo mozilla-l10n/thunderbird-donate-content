@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:01.236328+00:00\n"
-"PO-Revision-Date: 2022-06-19 14:53+0000\n"
+"PO-Revision-Date: 2022-09-16 18:36+0000\n"
 "Last-Translator: G12r <georgianization@outlook.com>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
@@ -64,7 +64,7 @@ msgstr "შემიძლია ბიტკოინის სახით შ
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.717167cb-85dd-42ac-81e6-bbd101ca491a.content"
 msgid "We are not currently accepting bitcoin."
-msgstr "ამჟამად, არ ვიღებთ ბიტკოინს."
+msgstr "ამჟამად არ ვიღებთ ბიტკოინს."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.e7ad7f16-3b98-4c67-aada-2eee7ac39acb.title"
 msgid "How can I turn off the appeal on the Thunderbird start page?"
@@ -92,7 +92,7 @@ msgstr "Thunderbird-ს არ მოაქვს შემოსავალი
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.20921238-be13-4535-bae3-ed933869c362.content"
 msgid "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird."
-msgstr "ამჟამად, Thunderbird-ის შემოსავლის უმეტეს ნაწილს შეადგენს Thunderbird-ის მომხმარებლებისა და მეგობრების გულუხვი საჩუქრები."
+msgstr "ამჟამად Thunderbird-ის შემოსავლის უმეტეს ნაწილს შეადგენს Thunderbird-ის მომხმარებლებისა და მეგობრების გულუხვი საჩუქრები."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a4757741-e6bb-456a-8bd7-a15557e0c21b.title"
 msgid "Who gives to Thunderbird?"
