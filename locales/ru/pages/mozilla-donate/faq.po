@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:02.075396+00:00\n"
-"PO-Revision-Date: 2022-08-13 13:05+0000\n"
+"PO-Revision-Date: 2022-09-24 13:22+0000\n"
 "Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -17,15 +17,15 @@ msgstr "Часто задаваемые вопросы"
 
 msgctxt "seo_title"
 msgid "Thunderbird Giving FAQ"
-msgstr ""
+msgstr "Частые вопросы о пожертвованиях Thunderbird"
 
 msgctxt "search_description"
 msgid "Frequently asked questions about giving to Thunderbird"
-msgstr ""
+msgstr "Часто задаваемые вопросы о пожертвованиях Thunderbird"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.title"
 msgid "Thunderbird Gift FAQs"
-msgstr ""
+msgstr "Частые вопросы о пожертвованиях Thunderbird"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.36ffc3f6-b01b-4e17-a4a9-e67d780c48b7.title"
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
@@ -37,15 +37,15 @@ msgstr "Thunderbird — это проект MZLA Technologies Corporation, до�
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a6e1885f-f164-4eec-9595-cea9a545e7e6.title"
 msgid "What are the ways I can give?"
-msgstr ""
+msgstr "Как я могу сделать пожертвование?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a6e1885f-f164-4eec-9595-cea9a545e7e6.content"
 msgid "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>."
-msgstr ""
+msgstr "<a id=\"a1\">Перейдите по этой ссылке, чтобы сделать безопасное онлайн-пожертвование прямо сейчас с помощью банковской карты или PayPal</a>."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.c492e102-0610-459c-81fe-16c0a6e9e11f.title"
 msgid "Why do you need my address in order to process a gift?"
-msgstr ""
+msgstr "Зачем мне нужно указывать мой адрес в процессе пожертвования?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.c492e102-0610-459c-81fe-16c0a6e9e11f.content"
 msgid ""
