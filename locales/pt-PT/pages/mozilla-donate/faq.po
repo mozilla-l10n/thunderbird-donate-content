@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:01.964360+00:00\n"
-"PO-Revision-Date: 2022-07-13 12:23+0000\n"
-"Last-Translator: trans <trans@anatol.biz>\n"
+"PO-Revision-Date: 2022-10-15 17:16+0000\n"
+"Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
 "Language: pt_PT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Frequently Asked Questions"
-msgstr "Perguntas Frequentes"
+msgstr "Perguntas mais frequentes"
 
 msgctxt "seo_title"
 msgid "Thunderbird Giving FAQ"
@@ -21,7 +21,7 @@ msgstr "Perguntas frequentes sobre donativos para o Thunderbird"
 
 msgctxt "search_description"
 msgid "Frequently asked questions about giving to Thunderbird"
-msgstr "Perguntas frequentes sobre doações para o Thunderbird"
+msgstr "Perguntas mais frequentes sobre doar para o Thunderbird"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.title"
 msgid "Thunderbird Gift FAQs"
@@ -33,11 +33,11 @@ msgstr "Qual a relação do Thunderbird com a MZLA Technologies Corporation?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.36ffc3f6-b01b-4e17-a4a9-e67d780c48b7.content"
 msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
-msgstr ""
+msgstr "Thunderbird é um projeto da MZLA Technologies Corporation, que é uma subsidiária integral proprietária da Fundação Mozilla."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a6e1885f-f164-4eec-9595-cea9a545e7e6.title"
 msgid "What are the ways I can give?"
-msgstr "Quais são as formas para fazer um donativo?"
+msgstr "Quais são as formas de doação?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a6e1885f-f164-4eec-9595-cea9a545e7e6.content"
 msgid "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>."
