@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:01.964360+00:00\n"
-"PO-Revision-Date: 2022-10-15 17:16+0000\n"
+"PO-Revision-Date: 2022-10-15 17:33+0000\n"
 "Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
 "Language: pt_PT\n"
 "MIME-Version: 1.0\n"
@@ -41,11 +41,11 @@ msgstr "Quais são as formas de doação?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a6e1885f-f164-4eec-9595-cea9a545e7e6.content"
 msgid "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>."
-msgstr ""
+msgstr "<a id=\"a1\">Visite esta ligação para efetuar agora uma doação segura pela Internet via cartão de crédito ou PayPal</a>."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.c492e102-0610-459c-81fe-16c0a6e9e11f.title"
 msgid "Why do you need my address in order to process a gift?"
-msgstr ""
+msgstr "Porque precisam da minha morada para processar uma doação?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.c492e102-0610-459c-81fe-16c0a6e9e11f.content"
 msgid ""
@@ -53,14 +53,17 @@ msgid ""
 " to verify your identity, process your payment, and prevent fraudulent charges to your credit card. We keep your information private — if you have questions, please refer to our <a id=\"a1\">Privacy"
 " Policy</a>. If you would rather not fill in your information on our online form, you can mail us a check."
 msgstr ""
+"Nós compreendemos que a sua privacidade é muito importante. Nós solicitamos um valor mínimo de informação para processar os pagamentos via cartão de crédito/débito, incluindo a morada de faturação. "
+"Isto permite que o nosso processador de pagamentos verifique a sua identidade, processe o seu pagamento e impeça as cobranças fraudulentas no seu cartão. Nós mantemos a sua informação privada — se "
+"tiver questões, por favor, consulte a nossa <a id=\"a1\">Política de Privacidade</a>. Se preferir não introduzir os seus dados no nosso formulário na Internet, pode enviar um cheque pelo correio."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.717167cb-85dd-42ac-81e6-bbd101ca491a.title"
 msgid "Can I give bitcoin?"
-msgstr ""
+msgstr "Eu posso doar bitcoin?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.717167cb-85dd-42ac-81e6-bbd101ca491a.content"
 msgid "We are not currently accepting bitcoin."
-msgstr ""
+msgstr "Nós não estamos atualmente a aceitar bitcoin."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.e7ad7f16-3b98-4c67-aada-2eee7ac39acb.title"
 msgid "How can I turn off the appeal on the Thunderbird start page?"
