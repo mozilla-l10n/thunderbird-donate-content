@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:01.964360+00:00\n"
-"PO-Revision-Date: 2022-10-18 21:31+0000\n"
+"PO-Revision-Date: 2022-10-18 21:32+0000\n"
 "Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
 "Language: pt_PT\n"
 "MIME-Version: 1.0\n"
@@ -133,6 +133,9 @@ msgid ""
 "If you used PayPal to set up a recurring gift, you’ll need to <a id=\"a1\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly gift using your credit card, please "
 "contact to the Donor Care team <a id=\"a2\">via this form</a>. Please include the email address and name you used to make your donation, and they’ll try to help you within two business days."
 msgstr ""
+"Se utilizou o PayPal para configurar um donativo recorrente, precisará de <a id=\"a1\">iniciar sessão na sua conta PayPal</a> para fazer alterações ou cancelar. Se doou mensalmente utilizando o seu "
+"cartão de crédito, por favor, contacte a equipa de Apoio ao Doador <a id=\"a2\">através deste formulário</a>. Por favor, inclua o endereço de correio eletrónico e o nome que utilizou para doar e "
+"eles tentarão ajudar dentro de dois dias úteis."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.05da60c3-3805-4891-ad8c-e7bfa5c2442d.title"
 msgid "Who can I email directly with questions about giving?"
