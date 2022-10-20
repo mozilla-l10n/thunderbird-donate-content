@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:01.964360+00:00\n"
-"PO-Revision-Date: 2022-10-18 21:32+0000\n"
+"PO-Revision-Date: 2022-10-20 00:39+0000\n"
 "Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
 "Language: pt_PT\n"
 "MIME-Version: 1.0\n"
@@ -114,7 +114,7 @@ msgstr ""
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.ff95ca71-27c4-4ef6-b3d1-b1c4b55b19ea.title"
 msgid "Is my gift tax deductible?"
-msgstr "A minha doação é dedutível em impostos?"
+msgstr "A minha doação é dedutível nos impostos?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.ff95ca71-27c4-4ef6-b3d1-b1c4b55b19ea.content"
 msgid ""
