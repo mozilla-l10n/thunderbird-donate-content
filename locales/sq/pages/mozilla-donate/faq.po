@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:02.284492+00:00\n"
-"PO-Revision-Date: 2022-11-15 23:08+0000\n"
+"PO-Revision-Date: 2022-11-15 23:10+0000\n"
 "Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
 "Language: sq\n"
 "MIME-Version: 1.0\n"
@@ -146,3 +146,5 @@ msgid ""
 "If you have a question about giving to Thunderbird, please contact us via <a id=\"a1\">this form</a>. We will do our best to follow-up with you as soon as we can. If you need technical support, "
 "please head over to <a id=\"a2\">Thunderbird Support</a> for assistance."
 msgstr ""
+"Nëse keni një pyetje rreth dhurimesh për Thunderbird-in, ju lutemi, lidhuni me përmes <a id=\"a1\">këtij formulari</a>. Do të bëjmë ç’të mundeni për ta ndjekur sa më shpejt të jetë e mundur. Nëse ju"
+" duhet asistencë teknike, drejtohuni për ndihmë te <a id=\"a2\">Asistencë për Thunderbird-in</a>."
