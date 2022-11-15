@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-05-30 07:21:02.284492+00:00\n"
-"PO-Revision-Date: 2022-11-13 21:18+0000\n"
+"PO-Revision-Date: 2022-11-15 23:08+0000\n"
 "Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
 "Language: sq\n"
 "MIME-Version: 1.0\n"
@@ -25,15 +25,15 @@ msgstr "Pyetje të bëra rëndom rreth dhurimit për Thunderbird-in"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.title"
 msgid "Thunderbird Gift FAQs"
-msgstr ""
+msgstr "PBR mbi Dhurim për Thunderbird-in"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.36ffc3f6-b01b-4e17-a4a9-e67d780c48b7.title"
 msgid "What is Thunderbird’s relationship to MZLA Technologies Corporation?"
-msgstr ""
+msgstr "Ç’marrëdhënie ka Thunderbird-i me MZLA Technologies Corporation?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.36ffc3f6-b01b-4e17-a4a9-e67d780c48b7.content"
 msgid "Thunderbird is a project of MZLA Technologies Corporation, which is a wholly owned subsidiary of Mozilla Foundation."
-msgstr ""
+msgstr "Thunderbird-i është një projekt i MZLA Technologies Corporation, e cila një nëndegë në pronësi të plotë e Mozilla Foundation."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a6e1885f-f164-4eec-9595-cea9a545e7e6.title"
 msgid "What are the ways I can give?"
@@ -41,7 +41,7 @@ msgstr "Cilat janë rrugët nëpërmjet të cilave mund të dhuroj?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a6e1885f-f164-4eec-9595-cea9a545e7e6.content"
 msgid "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>."
-msgstr ""
+msgstr "<a id=\"a1\">Vizitoni këtë lidhje që të bëni një dhurim të siguruar në internet mu tani, përmes karte krediti, ose PayPal-i</a>."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.c492e102-0610-459c-81fe-16c0a6e9e11f.title"
 msgid "Why do you need my address in order to process a gift?"
@@ -92,7 +92,7 @@ msgstr "A nuk fiton për vete Thunderbird-i?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.20921238-be13-4535-bae3-ed933869c362.content"
 msgid "Currently, the majority of Thunderbird’s revenue comes from generous gifts from users and friends of Thunderbird."
-msgstr ""
+msgstr "Aktualisht, shumica e të ardhurave të Thunderbird-it vijnë nga dhurata bujare nga përdorues dhe miq të Thunderbird-it."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a4757741-e6bb-456a-8bd7-a15557e0c21b.title"
 msgid "Who gives to Thunderbird?"
@@ -100,39 +100,46 @@ msgstr "Kush dhuron për Thunderbird-in?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.a4757741-e6bb-456a-8bd7-a15557e0c21b.content"
 msgid "Anyone can give, companies and individuals, to Thunderbird to support development of the product now and in the future."
-msgstr ""
+msgstr "Për të përkrahur zhvillimin e produktit tani dhe në të ardhmen, për Thunderbird-in mund të japë kushdo, kompani dhe individë."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.7e4bb215-32a3-4c9f-a9db-2a0ba19f0e8f.title"
 msgid "Does my gift give me access to tech support?"
-msgstr ""
+msgstr "A përfitoj prej dhuratës time asistencë teknike?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.7e4bb215-32a3-4c9f-a9db-2a0ba19f0e8f.content"
 msgid "Anyone can access tech support for Thunderbird by visiting the <a id=\"a1\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial gifts."
 msgstr ""
+"Asistencë teknike për Thunderbird-in mund të ketë cilido, duke vizituar <a id=\"a1\">forumin e asistencës</a>. Thunderbird-i nuk ofron asistencë teknike, apo asistencë të thelluar teknike, në "
+"shkëmbim të dhuratave financiare."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.ff95ca71-27c4-4ef6-b3d1-b1c4b55b19ea.title"
 msgid "Is my gift tax deductible?"
-msgstr ""
+msgstr "A kam zbritje në tatim nga dhurata ime?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.ff95ca71-27c4-4ef6-b3d1-b1c4b55b19ea.content"
 msgid ""
 "Gifts to Thunderbird are not tax-deductible, but are greatly appreciated. Giving to Thunderbird supports the development of our leading open source cross-platform email and calendaring client, free "
 "for business and personal use. Your gift will help ensure it stays that way, and will support future development."
 msgstr ""
+"Dhuratat te Thunderbird-i nuk sjellin zbritje në tatim, por çmohen jashtë mase. Dhëni për Thunderbird-in përjrah zhvillimin e klientit tonë kryesues me burim të hapët, ndërplatformësh për email dhe "
+"klientit tonë për kalendar, falas për biznese dhe përdorim personal. Dhurata juaj do të ndihmojë që të mbetet i tillë dhe do të mbështetë zhvillimin në të ardhmen."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.65e3527b-81f5-4025-82d0-67e840e54a11.title"
 msgid "How do I cancel or change my recurring gift?"
-msgstr ""
+msgstr "Si ta anuloj ose ndryshoj dhuratën time periodike?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.65e3527b-81f5-4025-82d0-67e840e54a11.content"
 msgid ""
 "If you used PayPal to set up a recurring gift, you’ll need to <a id=\"a1\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly gift using your credit card, please "
 "contact to the Donor Care team <a id=\"a2\">via this form</a>. Please include the email address and name you used to make your donation, and they’ll try to help you within two business days."
 msgstr ""
+"Nëse përdorët PayPal-in që të ujdisni një dhuratë periodike, do t’ju duhet të <a id=\"a1\">bëni hyrjen te llogaria juaj PayPal</a> që të bëni ndryshime në të, apo ta anuloni. Nëse bëtë një dhuratë "
+"të përmuajshme përmes karte krediti, ju lutemi, lidhuni me ekipin tonë Kujdesi për Dhuruesit, përmes <a id=\"a2\">këtij formulari</a>. Ju lutemi, përfshini në të adresën email dhe emrin që përdorët "
+"për të bërë dhuratën tuaj dhe do të përpiqen t’ju ndihmojnë brenda dy ditësh pune."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.05da60c3-3805-4891-ad8c-e7bfa5c2442d.title"
 msgid "Who can I email directly with questions about giving?"
-msgstr ""
+msgstr "Ku mund ta dërgoj drejtpërdrejt një email me pyetje rreth dhurimesh?"
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.05da60c3-3805-4891-ad8c-e7bfa5c2442d.content"
 msgid ""
