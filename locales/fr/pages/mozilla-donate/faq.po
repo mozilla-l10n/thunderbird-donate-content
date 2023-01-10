@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-23 14:25:27.903994+00:00\n"
-"PO-Revision-Date: 2022-12-08 10:27+0000\n"
+"PO-Revision-Date: 2023-01-10 14:26+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -85,8 +85,8 @@ msgid ""
 "Thunderbird is the leading open source cross-platform email and calendaring client, free for business and personal use. Your gift will help ensure it stays that way, and will support future "
 "development."
 msgstr ""
-"Thunderbird est le logiciel open source de messagerie et d’agenda le plus avancé, il est libre et gratuit pour les entreprises et les particuliers. Votre don permettra d’assurer sa pérennité et son "
-"caractère ouvert."
+"Thunderbird domine le marché de la messagerie et des agendas open source, multiplateforme et gratuits pour les particuliers et les professionnels. Votre don permettra d’assurer sa pérennité et son "
+"développement."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.20921238-be13-4535-bae3-ed933869c362.title"
 msgid "Doesn’t Thunderbird earn income?"
