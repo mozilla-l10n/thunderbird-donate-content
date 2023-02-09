@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-12-15 13:34:49.354217+00:00\n"
-"PO-Revision-Date: 2020-12-17 09:15+0000\n"
+"PO-Revision-Date: 2023-02-09 09:46+0000\n"
 "Last-Translator: Francesco Lodolo [:flod] <flod+pontoon@mozilla.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -110,8 +110,8 @@ msgstr "Con una donazione avrò accesso al supporto tecnico?"
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.7e4bb215-32a3-4c9f-a9db-2a0ba19f0e8f.content"
 msgid "Anyone can access tech support for Thunderbird by visiting the <a id=\"a1\">support forum</a>. Thunderbird does not provide tech support or enhanced tech support in exchange for financial gifts."
 msgstr ""
-"Chiunque può accedere al supporto tecnico per Thunerbird visitando il <a id=\"a1\">nostro forum di supporto</a>. Thunderbird non offre supporto tecnico, di base o avanzato, come contropartita di una"
-" donazione."
+"Chiunque può accedere al supporto tecnico per Thunderbird visitando il <a id=\"a1\">nostro forum di supporto</a>. Thunderbird non offre supporto tecnico, di base o avanzato, come contropartita di "
+"una donazione."
 
 msgctxt "body.b2d11ad8-4174-4859-8580-337f9f613ddb.items.ff95ca71-27c4-4ef6-b3d1-b1c4b55b19ea.title"
 msgid "Is my gift tax deductible?"
